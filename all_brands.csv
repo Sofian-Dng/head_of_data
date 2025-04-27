@@ -1,4 +1,4 @@
-title,brand,price,review
+Ôªøtitle,brand,price,review
 "Base Cobertura Total - Maple - Absolute New York,absolute_new_york,""R$ 56,90"",0/5"
 "Base Cobertura Total - Tiramisu - Absolute New York,absolute_new_york,""R$ 56,90"",0/5"
 "Base Cobertura Total - Truffle - Absolute New York,absolute_new_york,""R$ 56,90"",0/5"
@@ -6,10 +6,10 @@ title,brand,price,review
 "Base Cobertura Total - Ganache - Absolute New York,absolute_new_york,""R$ 56,90"",0/5"
 "Iluminador Glow in the City - New York Glow - Absolute New York,absolute_new_york,""R$ 112,90"",0/5"
 "Iluminador Glow in the City - Big Apple Cheeks - Absolute New York,absolute_new_york,""R$ 112,90"",0/5"
-"PÛ Solto Skin Glow - Holo - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
-"PÛ Solto Skin Glow - PÍssego - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
-"PÛ Solto Skin Glow - Sol - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
-"PÛ Solto Skin Glow - Bronze - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
+"P√≥ Solto Skin Glow - Holo - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
+"P√≥ Solto Skin Glow - P√™ssego - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
+"P√≥ Solto Skin Glow - Sol - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
+"P√≥ Solto Skin Glow - Bronze - Absolute New York,absolute_new_york,""R$ 75,90"",0/5"
 "Gloss Labial Lip Spark - Sunstone - Absolute New York,absolute_new_york,""R$ 61,90"",0/5"
 "Gloss Labial Lip Spark - Spinel - Absolute New York,absolute_new_york,""R$ 61,90"",0/5"
 "Gloss Labial Lip Spark - Ruby - Absolute New York,absolute_new_york,""R$ 61,90"",0/5"
@@ -38,9 +38,9 @@ title,brand,price,review
 "Delineador em Gel para Olhos - Brown - Absolute New York,absolute_new_york,""R$ 46,90"",0/5"
 "Delineador em Gel para Olhos - Navy - Absolute New York,absolute_new_york,""R$ 46,90"",0/5"
 "Delineador em Gel para Olhos - White - Absolute New York,absolute_new_york,""R$ 46,90"",0/5"
-"L·pis de Sobrancelha Super Slim - Preto - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
-"L·pis de Sobrancelha Super Slim - Castanho Escuro - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
-"L·pis de Sobrancelha Super Slim - Castanho Claro - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
+"L√°pis de Sobrancelha Super Slim - Preto - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
+"L√°pis de Sobrancelha Super Slim - Castanho Escuro - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
+"L√°pis de Sobrancelha Super Slim - Castanho Claro - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
 "Pincel para Contorno e Iluminador - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
 "Delineador Perfect Eye - Preto - Absolute New York,absolute_new_york,""R$ 19,90"",0/5"
 "Delineador Perfect Eye - Castanho Escuro - Absolute New York,absolute_new_york,""R$ 19,90"",0/5"
@@ -49,21 +49,21 @@ title,brand,price,review
 "Delineador Perfect Eye - Branco - Absolute New York,absolute_new_york,""R$ 19,90"",0/5"
 "Delineador Perfect Eye - Azul - Absolute New York,absolute_new_york,""R$ 19,90"",0/5"
 "Delineador Perfect Lip - Ameixa - Absolute New York,absolute_new_york,""R$ 17,90"",0/5"
-"Delineador LÌquido Marker - Expert Script - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
-"Delineador LÌquido Marker - Arrow Script - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
-"Paleta de Sombras - Ver„o Bronze - Absolute New York,absolute_new_york,""R$ 94,90"",0/5"
+"Delineador L√≠quido Marker - Expert Script - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
+"Delineador L√≠quido Marker - Arrow Script - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
+"Paleta de Sombras - Ver√£o Bronze - Absolute New York,absolute_new_york,""R$ 94,90"",0/5"
 "Paleta de Sombras - Noites Quentes - Absolute New York,absolute_new_york,""R$ 94,90"",0/5"
 "Paleta de Sombras - Hiper Pop - Absolute New York,absolute_new_york,""R$ 94,90"",0/5"
-"PÛ Solto HD Baking - PÍssego - Absolute New York,absolute_new_york,""R$ 77,90"",0/5"
-"PÛ Solto HD Baking - Banana - Absolute New York,absolute_new_york,""R$ 77,90"",0/5"
+"P√≥ Solto HD Baking - P√™ssego - Absolute New York,absolute_new_york,""R$ 77,90"",0/5"
+"P√≥ Solto HD Baking - Banana - Absolute New York,absolute_new_york,""R$ 77,90"",0/5"
 "Corretivo Caneta Click Cover - Neutro Claro - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
 "Corretivo Caneta Click Cover - Subtom Amarelo Claro - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
 "Corretivo Caneta Click Cover - Subtom Oliva Claro - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
-"Corretivo Caneta Click Cover - Subtom Oliva MÈdio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
-"Corretivo Caneta Click Cover - Neutro MÈdio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
-"Corretivo Caneta Click Cover - Subtom PÍssego MÈdio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
-"Corretivo Caneta Click Cover - Subtom Rosa MÈdio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
-"Corretivo Caneta Click Cover - Subtom Amarelo MÈdio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
+"Corretivo Caneta Click Cover - Subtom Oliva M√©dio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
+"Corretivo Caneta Click Cover - Neutro M√©dio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
+"Corretivo Caneta Click Cover - Subtom P√™ssego M√©dio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
+"Corretivo Caneta Click Cover - Subtom Rosa M√©dio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
+"Corretivo Caneta Click Cover - Subtom Amarelo M√©dio - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
 "Corretivo Caneta Click Cover - Subtom Frio Escuro - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
 "Corretivo Caneta Click Cover - Amarelo - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
 "Corretivo Caneta Click Cover - Laranja - Absolute New York,absolute_new_york,""R$ 58,90"",0/5"
@@ -71,7 +71,7 @@ title,brand,price,review
 "Base e Corretivo 2 em 1 - Nude - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
 "Base e Corretivo 2 em 1 - Areia - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
 "Base e Corretivo 2 em 1 - Bege - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
-"Base e Corretivo 2 em 1 - CafÈ - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
+"Base e Corretivo 2 em 1 - Caf√© - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
 "Base e Corretivo 2 em 1 - Nozes - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
 "Base e Corretivo 2 em 1 - Mocha - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
 "Base e Corretivo 2 em 1 - Conhaque - Absolute New York,absolute_new_york,""R$ 106,90"",0/5"
@@ -86,94 +86,94 @@ title,brand,price,review
 "Pincel para Contorno - Absolute New York,absolute_new_york,""R$ 32,90"",0/5"
 "Pincel para Base Chanfrado - Absolute New York,absolute_new_york,""R$ 32,90"",0/5"
 "Pincel Leque para Iluminador - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
-"Pincel para Sombra MÈdio - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
+"Pincel para Sombra M√©dio - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
 "Pincel para Esfumar Sombra - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
 "Pincel para Esfumar Sombra - Grande - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
-"Pincel CÙnico para Sombra - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
+"Pincel C√¥nico para Sombra - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
 "Pincel Plano para Aplicar Sombra - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
 "Pincel Achatado de Sombra - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
-"Pincel Plano de Precis„o - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
-"Pincel de Precis„o Angular - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
-"Pincel 3 em 1 para PÛ e Olhos - Absolute New York,absolute_new_york,""R$ 84,90"",0/5"
+"Pincel Plano de Precis√£o - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
+"Pincel de Precis√£o Angular - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
+"Pincel 3 em 1 para P√≥ e Olhos - Absolute New York,absolute_new_york,""R$ 84,90"",0/5"
 "Pincel 4 em 1 para Blush e Olhos - Absolute New York,absolute_new_york,""R$ 67,90"",0/5"
-"Pincel 4 em 1 para Sombras e L·bios - Absolute New York,absolute_new_york,""R$ 33,90"",0/5"
+"Pincel 4 em 1 para Sombras e L√°bios - Absolute New York,absolute_new_york,""R$ 33,90"",0/5"
 "Pincel Duplo de Sobrancelha - Absolute New York,absolute_new_york,""R$ 21,90"",0/5"
-"M·scara para Olhos Cooling de Pepino - Absolute New York,absolute_new_york,""R$ 51,90"",0/5"
-"Base LÌquida HD Flawless - Natural - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - Areia - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - Bege - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - Bronzeado - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - Mel - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - Caramelo - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - AmÍndoa - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"Base LÌquida HD Flawless - CafÈ - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
-"L·pis Labial Duplo Perfect -MaÁa do Amor -Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
+"M√°scara para Olhos Cooling de Pepino - Absolute New York,absolute_new_york,""R$ 51,90"",0/5"
+"Base L√≠quida HD Flawless - Natural - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Areia - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Bege - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Bronzeado - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Mel - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Caramelo - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Am√™ndoa - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"Base L√≠quida HD Flawless - Caf√© - Absolute New York,absolute_new_york,""R$ 89,90"",0/5"
+"L√°pis Labial Duplo Perfect -Ma√ßa do Amor -Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
 "Delineador em Gel Glide e Glam Olhos - Azul Cobalto - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
 "Delineador em Gel Glide e Glam Olhos - Castanho - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
 "Delineador em Gel Glide e Glam Olhos - Bronze Khaki - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
 "Delineador em Gel Glide e Glam Olhos - Cobre - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
 "Delineador em Gel Glide e Glam Olhos - Rose Gold - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
-"Delineador em Gel Glide e Glam Olhos - Branco PÈrola - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
+"Delineador em Gel Glide e Glam Olhos - Branco P√©rola - Absolute New York,absolute_new_york,""R$ 39,90"",0/5"
 "Delineador em Gel Labial Glide e Glam - Ameixa - Absolute New York,absolute_new_york,""R$ 35,90"",0/5"
 "Delineador em Gel Labial Glide e Glam - Berry - Absolute New York,absolute_new_york,""R$ 35,90"",0/5"
-"Delineador em Gel Labial Glide e Glam - Vermelho RetrÙ - Absolute New York,absolute_new_york,""R$ 35,90"",0/5"
+"Delineador em Gel Labial Glide e Glam - Vermelho Retr√¥ - Absolute New York,absolute_new_york,""R$ 35,90"",0/5"
 "Delineador em Gel Labial Glide e Glam - Rosa Suave - Absolute New York,absolute_new_york,""R$ 35,90"",5-Apr"
 "Delineador em Gel Labial Glide e Glam - Castanho Nude - Absolute New York,absolute_new_york,""R$ 35,90"",0/5"
-"L·pis de Sobrancelha - Preto - Absolute New York,absolute_new_york,""R$ 49,90"",0/5"
-"L·pis de Sobrancelha - Castanho Escuro - Absolute New York,absolute_new_york,""R$ 49,90"",0/5"
-"L·pis de Sobrancelha - Marrom Escuro - Absolute New York,absolute_new_york,""R$ 49,90"",0/5"
-"CÌlios PostiÁos Super Soft Garnet 309 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Super Soft Garnet 310 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
+"L√°pis de Sobrancelha - Preto - Absolute New York,absolute_new_york,""R$ 49,90"",0/5"
+"L√°pis de Sobrancelha - Castanho Escuro - Absolute New York,absolute_new_york,""R$ 49,90"",0/5"
+"L√°pis de Sobrancelha - Marrom Escuro - Absolute New York,absolute_new_york,""R$ 49,90"",0/5"
+"C√≠lios Posti√ßos Super Soft Garnet 309 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Super Soft Garnet 310 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
 "Unhas Autoadesivas Curta Amazon Green - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Unhas Autoadesivas MÈdia Amazon Green - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
+"Unhas Autoadesivas M√©dia Amazon Green - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
 "Unhas Autoadesivas Curta Candy Red - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
 "Unhas Autoadesivas Curta Cobalt Blue - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Unhas Autoadesivas MÈdia Eclipse Black- Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Unhas Autoadesivas MÈdia Magic Black- Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
+"Unhas Autoadesivas M√©dia Eclipse Black- Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
+"Unhas Autoadesivas M√©dia Magic Black- Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
 "Unhas Autoadesivas Curta Mahogany Red - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
 "Unhas Autoadesivas Curta Martin Orange - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Unhas Autoadesivas MÈdio Martin Orange - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
+"Unhas Autoadesivas M√©dio Martin Orange - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
 "Unhas Autoadesivas Curta Reddish Black - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Unhas Autoadesivas MÈdia Snow White - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Unhas Autoadesivas MÈdia Tea Brown - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
-"Caneta Delineadora LÌquida Nano - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
-"Caneta Delineadora LÌquida Shape & Define - Absolute New York,absolute_new_york,""R$ 51,90"",0/5"
-"Pincel para PÛ - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
+"Unhas Autoadesivas M√©dia Snow White - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
+"Unhas Autoadesivas M√©dia Tea Brown - Absolute New York x InstaBeauty,absolute_new_york,""R$ 37,90"",0/5"
+"Caneta Delineadora L√≠quida Nano - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
+"Caneta Delineadora L√≠quida Shape & Define - Absolute New York,absolute_new_york,""R$ 51,90"",0/5"
+"Pincel para P√≥ - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
 "Pincel para Iluminador - Absolute New York,absolute_new_york,""R$ 45,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 201 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 202 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 203 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 204 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 206 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 207 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 208 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos 5D Silk Sapphire 210 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 001 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 004 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 007 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 008 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 009 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 010 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 011 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 012 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 013 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 014 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 015 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 016 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Natural Ruby 017 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Super Soft Garnet 301 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Super Soft Garnet 302 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Super Soft Garnet 303 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Super Soft Garnet 304 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
-Unhas Autoadesivas MÈdia Burgundy Red- Absolute New York x InstaBeauty,absolute_new_york,,0/5
-Unhas Autoadesivas MÈdia Chocolate Bronw - Absolute New York x InstaBeauty,absolute_new_york,,0/5
+"C√≠lios Posti√ßos 5D Silk Sapphire 201 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 202 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 203 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 204 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 206 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 207 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 208 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos 5D Silk Sapphire 210 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 001 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 004 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 007 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 008 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 009 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 010 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 011 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 012 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 013 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 014 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 015 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 016 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Natural Ruby 017 - Absolute New York x Instabeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Super Soft Garnet 301 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Super Soft Garnet 302 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Super Soft Garnet 303 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Super Soft Garnet 304 - Absolute New York x InstaBeauty,absolute_new_york,""R$ 24,90"",0/5"
+Unhas Autoadesivas M√©dia Burgundy Red- Absolute New York x InstaBeauty,absolute_new_york,,0/5
+Unhas Autoadesivas M√©dia Chocolate Bronw - Absolute New York x InstaBeauty,absolute_new_york,,0/5
 ",absolute_new_york,""R$ 22,90"","
 ",absolute_new_york,""R$ 22,90"","
 ",absolute_new_york,""R$ 22,90"","
 Desodorante Cristal Stick Vegano Natural 60g - Alva,alva-personal-care,,5-May
 Desodorante Spray Cristal Natural Lavanda Vegano 120ml - Alva,alva-personal-care,,0/5
 Desodorante Cristal Stick Vegano 120g - Alva,alva-personal-care,,5-May
-Raspador de LÌngua de Cobre - Alva,alva-personal-care,,5-May
+Raspador de L√≠ngua de Cobre - Alva,alva-personal-care,,5-May
 Desodorante Stick Infantil Camomila Vegano 33g - Alva,alva-personal-care,,5-May
 Protetor Solar Natural FPS 45 Stick Sem Cor - Alva,alva-personal-care,,5-May
 Desodorante Spray Cristal Natural Sem Perfume Vegano 120ml - Alva,alva-personal-care,,5-May
@@ -181,61 +181,61 @@ Balm Natural FPS 45 Base Protetor em Stick com Cor 16,5g - Alva,alva-personal-ca
 ",alva-personal-care,""R$ 22,90"","
 ",alva-personal-care,""R$ 22,90"","
 ",alva-personal-care,""R$ 22,90"","
-"Iluminador Compacto - Cor 040 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 49,90"",0/5"
-"PÛ Compacto FPS25 - Cor 070 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 37,90"",0/5"
-"PÛ Compacto FPS25 - Cor 080 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 37,90"",0/5"
-"Paleta de Sombras - Basic - Bauny CosmÈticos,bauny_cosmeticos,""R$ 49,90"",0/5"
-Base LÌquida Matte FPS25 - Cor 100 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Base LÌquida Matte FPS25 - Cor 110 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Base LÌquida Matte FPS25 - Cor 120 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-"PÛ Compacto FPS25 - Cor 120 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 37,90"",0/5"
-"PÛ Solto Facial - Cor 030 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 49,90"",0/5"
-"Gloss Hidra Luminous 3D - Blossom Glow - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Hidra Luminous 3D - Chic Glow - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Hidra Luminous 3D - Choco Glow - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Hidra Luminous 3D - Peach Glow - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Hidra Luminous 3D - Ruby Glow - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Vinil - Coral Be Funny - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Vinil - Incolor Be Glossy - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Vinil - Malva Cl·ssico Be You - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Vinil - Nude Caramelo Be Free - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"Gloss Vinil - Rosa Fucsia Be Crazy - Bauny CosmÈticos,bauny_cosmeticos,""R$ 39,90"",0/5"
-"L·pis Delineador de L·bios Rosa - Bauny CosmÈticos,bauny_cosmeticos,""R$ 29,90"",0/5"
-"L·pis Delineador de L·bios Vermelho - Bauny CosmÈticos,bauny_cosmeticos,""R$ 29,90"",0/5"
-"L·pis Delineador de L·bios Vinho - Bauny CosmÈticos,bauny_cosmeticos,""R$ 29,90"",0/5"
-Base LÌquida Matte FPS25 - Cor 030 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Base LÌquida Matte FPS25 - Cor 070 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Batom LÌquido Matte - Cor 010 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Batom LÌquido Matte - Cor 020 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Batom LÌquido Matte - Cor 040 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-"Batom LÌquido Matte - Cor 050 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 49,90"",0/5"
-Batom LÌquido Matte - Cor 060 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-"Blush Compacto Cor 040 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 42,90"",0/5"
-"Blush Compacto Cor 060 - Bauny CosmÈticos,bauny_cosmeticos,""R$ 42,90"",0/5"
-L·pis Delineador - Preto - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-L·pis de Sobrancelha - Universal - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Lapiseira Retr·til - Preta - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-M·scara de CÌlios - Super Size - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-M·scara de CÌlios - Great Volume - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Paleta de Sombras - Essentials - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Corretivo LÌquido - 70-80 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Corretivo LÌquido - 90-100 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-PÛ Compacto FPS25 - Cor 100 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-PÛ Solto Facial - Cor 020 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Gloss Hidra Luminous 3D - Light Glow - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Gloss Vinil - Malva Frio Be Brave - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-L·pis Delineador de L·bios Nude - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Lapiseira Retr·til para Olhos Marrom - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Base LÌquida Matte FPS25 - Cor 010 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Base LÌquida Matte FPS25 - Cor 050 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Blush Compacto Cor 020 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Corretivo LÌquido - 30-40 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Corretivo LÌquido - 50-60 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
-Iluminador Compacto - Cor 010 - Bauny CosmÈticos,bauny_cosmeticos,,0/5
+"Iluminador Compacto - Cor 040 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 49,90"",0/5"
+"P√≥ Compacto FPS25 - Cor 070 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 37,90"",0/5"
+"P√≥ Compacto FPS25 - Cor 080 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 37,90"",0/5"
+"Paleta de Sombras - Basic - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 49,90"",0/5"
+Base L√≠quida Matte FPS25 - Cor 100 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Base L√≠quida Matte FPS25 - Cor 110 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Base L√≠quida Matte FPS25 - Cor 120 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+"P√≥ Compacto FPS25 - Cor 120 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 37,90"",0/5"
+"P√≥ Solto Facial - Cor 030 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 49,90"",0/5"
+"Gloss Hidra Luminous 3D - Blossom Glow - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Hidra Luminous 3D - Chic Glow - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Hidra Luminous 3D - Choco Glow - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Hidra Luminous 3D - Peach Glow - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Hidra Luminous 3D - Ruby Glow - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Vinil - Coral Be Funny - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Vinil - Incolor Be Glossy - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Vinil - Malva Cl√°ssico Be You - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Vinil - Nude Caramelo Be Free - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"Gloss Vinil - Rosa Fucsia Be Crazy - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 39,90"",0/5"
+"L√°pis Delineador de L√°bios Rosa - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 29,90"",0/5"
+"L√°pis Delineador de L√°bios Vermelho - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 29,90"",0/5"
+"L√°pis Delineador de L√°bios Vinho - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 29,90"",0/5"
+Base L√≠quida Matte FPS25 - Cor 030 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Base L√≠quida Matte FPS25 - Cor 070 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Batom L√≠quido Matte - Cor 010 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Batom L√≠quido Matte - Cor 020 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Batom L√≠quido Matte - Cor 040 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+"Batom L√≠quido Matte - Cor 050 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 49,90"",0/5"
+Batom L√≠quido Matte - Cor 060 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+"Blush Compacto Cor 040 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 42,90"",0/5"
+"Blush Compacto Cor 060 - Bauny Cosm√©ticos,bauny_cosmeticos,""R$ 42,90"",0/5"
+L√°pis Delineador - Preto - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+L√°pis de Sobrancelha - Universal - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Lapiseira Retr√°til - Preta - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+M√°scara de C√≠lios - Super Size - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+M√°scara de C√≠lios - Great Volume - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Paleta de Sombras - Essentials - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Corretivo L√≠quido - 70-80 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Corretivo L√≠quido - 90-100 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+P√≥ Compacto FPS25 - Cor 100 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+P√≥ Solto Facial - Cor 020 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Gloss Hidra Luminous 3D - Light Glow - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Gloss Vinil - Malva Frio Be Brave - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+L√°pis Delineador de L√°bios Nude - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Lapiseira Retr√°til para Olhos Marrom - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Base L√≠quida Matte FPS25 - Cor 010 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Base L√≠quida Matte FPS25 - Cor 050 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Blush Compacto Cor 020 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Corretivo L√≠quido - 30-40 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Corretivo L√≠quido - 50-60 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
+Iluminador Compacto - Cor 010 - Bauny Cosm√©ticos,bauny_cosmeticos,,0/5
 ",bauny_cosmeticos,""R$ 22,90"","
 ",bauny_cosmeticos,""R$ 22,90"","
 ",bauny_cosmeticos,""R$ 22,90"","
-"Escova de Cabelo Belliz Black & Gold Racket MÈdia - Belliz,belliz,""R$ 69,90"",0/5"
+"Escova de Cabelo Belliz Black & Gold Racket M√©dia - Belliz,belliz,""R$ 69,90"",0/5"
 "Escova de Cabelo de Madeira Point 25 - Linha Metal - Belliz,belliz,""R$ 49,90"",0/5"
 "Escova de Cabelo de Madeira Point 36 - Linha Metal - Belliz,belliz,""R$ 63,90"",0/5"
 "Escova para Cabelo Black & Gold Ventilada - Belliz,belliz,""R$ 56,90"",0/5"
@@ -243,81 +243,81 @@ Escova de Cabelo Black e Gold Racket - Belliz,belliz,,0/5
 ",belliz,""R$ 22,90"","
 ",belliz,""R$ 22,90"","
 ",belliz,""R$ 22,90"","
-Blush LÌquido Tint Cream - Live - Boca Rosa Beauty,boca_rosa,,0/5
+Blush L√≠quido Tint Cream - Live - Boca Rosa Beauty,boca_rosa,,0/5
 Paleta de Sombras Metaverse - Boca Rosa Beauty,boca_rosa,,0/5
 Paleta De Blush #CarinhaDeMetida - Boca Rosa,boca_rosa,,5-May
 Lapiseira Kajal Carbon Black #Blackout - Boca Rosa,boca_rosa,,0/5
-Batom LÌquido Mate #BocaRosaQueimado - Boca Rosa,boca_rosa,,5-May
-Batom LÌquido Mate #BocaRosaNude - Boca Rosa,boca_rosa,,5-May
-PÛ Solto Iluminador Flash - Boca Rosa Beauty,boca_rosa,,5-May
-PÛ Solto Iluminador Oops - Boca Rosa Beauty,boca_rosa,,0/5
-Corretivo LÌquido - Cor 1.5 Pet˙nia - Boca Rosa,boca_rosa,,0/5
+Batom L√≠quido Mate #BocaRosaQueimado - Boca Rosa,boca_rosa,,5-May
+Batom L√≠quido Mate #BocaRosaNude - Boca Rosa,boca_rosa,,5-May
+P√≥ Solto Iluminador Flash - Boca Rosa Beauty,boca_rosa,,5-May
+P√≥ Solto Iluminador Oops - Boca Rosa Beauty,boca_rosa,,0/5
+Corretivo L√≠quido - Cor 1.5 Pet√∫nia - Boca Rosa,boca_rosa,,0/5
 ",boca_rosa,""R$ 22,90"","
 ",boca_rosa,""R$ 22,90"","
 ",boca_rosa,""R$ 22,90"","
-"CÌlios PostiÁos Fios Naturais 20 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais K36 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais 523 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais 46 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais 99 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais 12 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais 213 - Broadway,broadway,""R$ 17,90"",0/5"
-"CÌlios PostiÁos Fios Naturais -N∫ 79 - Broadway,broadway,""R$ 17,90"",0/5"
-"Cilios PostiÁos 5D 02 - Broadway,broadway,""R$ 14,90"",0/5"
-"Cilios PostiÁos 5D 03 - Broadway,broadway,""R$ 14,90"",0/5"
-"Cilios PostiÁos 5D 04 - Broadway,broadway,""R$ 14,90"",0/5"
-"Cilios PostiÁos 5D 05 - Broadway,broadway,""R$ 14,90"",0/5"
-"Cilios PostiÁos 5D 06 - Broadway,broadway,""R$ 14,90"",0/5"
-"CÌlios PostiÁos 5D Pacote EconÙmico 5un - Broadway,broadway,""R$ 49,90"",0/5"
-CÌlios PostiÁos Fios Naturais 747M - Broadway,broadway,,0/5
+"C√≠lios Posti√ßos Fios Naturais 20 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais K36 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais 523 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais 46 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais 99 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais 12 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais 213 - Broadway,broadway,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos Fios Naturais -N¬∫ 79 - Broadway,broadway,""R$ 17,90"",0/5"
+"Cilios Posti√ßos 5D 02 - Broadway,broadway,""R$ 14,90"",0/5"
+"Cilios Posti√ßos 5D 03 - Broadway,broadway,""R$ 14,90"",0/5"
+"Cilios Posti√ßos 5D 04 - Broadway,broadway,""R$ 14,90"",0/5"
+"Cilios Posti√ßos 5D 05 - Broadway,broadway,""R$ 14,90"",0/5"
+"Cilios Posti√ßos 5D 06 - Broadway,broadway,""R$ 14,90"",0/5"
+"C√≠lios Posti√ßos 5D Pacote Econ√¥mico 5un - Broadway,broadway,""R$ 49,90"",0/5"
+C√≠lios Posti√ßos Fios Naturais 747M - Broadway,broadway,,0/5
 ",broadway,""R$ 22,90"","
 ",broadway,""R$ 22,90"","
 ",broadway,""R$ 22,90"","
-"All Grape SoluÁ„o Antioxidante TÙnico - BM Skin,bruna_malheiros,""R$ 109,90"",0/5"
+"All Grape Solu√ß√£o Antioxidante T√¥nico - BM Skin,bruna_malheiros,""R$ 109,90"",0/5"
 "Cleasing Oil Melt Grape - BM Skin,bruna_malheiros,""R$ 169,00"",5-May"
 "Gel de Limpeza Facial Clean Grape - BM Skin,bruna_malheiros,""R$ 84,90"",5-May"
 "Iluminador em Gel Marmalade - Chantilly - BM Beauty,bruna_malheiros,""R$ 99,90"",5-May"
 "Iluminador em Gel Marmalade - Caramel - BM Beauty,bruna_malheiros,""R$ 99,90"",0/5"
 "Iluminador em Gel Marmalade - Candy Rose - BM Beauty,bruna_malheiros,""R$ 99,90"",0/5"
-"PÛ Solto Seal Up - Translucent Medium - BM Beauty,bruna_malheiros,""R$ 99,90"",5-May"
-"PÛ Solto Seal Up - Translucent Bright - BM Beauty,bruna_malheiros,""R$ 99,90"",5-Apr"
-"PÛ Solto Seal Up - Translucent Banana - BM Beauty,bruna_malheiros,""R$ 99,90"",5-May"
-"Light Up - PÛ Para ¡rea Dos Olhos - Light Diamond - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
-"Light Up - PÛ Para ¡rea Dos Olhos - Light - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
+"P√≥ Solto Seal Up - Translucent Medium - BM Beauty,bruna_malheiros,""R$ 99,90"",5-May"
+"P√≥ Solto Seal Up - Translucent Bright - BM Beauty,bruna_malheiros,""R$ 99,90"",5-Apr"
+"P√≥ Solto Seal Up - Translucent Banana - BM Beauty,bruna_malheiros,""R$ 99,90"",5-May"
+"Light Up - P√≥ Para √Årea Dos Olhos - Light Diamond - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
+"Light Up - P√≥ Para √Årea Dos Olhos - Light - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
 "Find Glow Bruma Fixante - BM Beauty,bruna_malheiros,""R$ 89,90"",5-May"
 "Iluminador em Gel Marmalade - Marshmallow - BM Beauty,bruna_malheiros,""R$ 99,90"",5-May"
 "Be Peach Blush e Batom Peach - BM Beauty,bruna_malheiros,""R$ 84,90"",0/5"
 "Be Peach Blush e Batom Guava - BM Beauty,bruna_malheiros,""R$ 72,90"",0/5"
-"Iluminador em PÛ Shine Dust - Gold Divine - BM Beauty,bruna_malheiros,""R$ 74,90"",0/5"
-"Light Up - PÛ Para ¡rea Dos Olhos - Light Golden - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
-"Light Up - PÛ Para ¡rea Dos Olhos - Light Crystal - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
-"M·scara de Sobrancelhas Brow Stay - BM Beauty,bruna_malheiros,""R$ 89,90"",0/5"
+"Iluminador em P√≥ Shine Dust - Gold Divine - BM Beauty,bruna_malheiros,""R$ 74,90"",0/5"
+"Light Up - P√≥ Para √Årea Dos Olhos - Light Golden - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
+"Light Up - P√≥ Para √Årea Dos Olhos - Light Crystal - BM Beauty,bruna_malheiros,""R$ 89,90"",5-Apr"
+"M√°scara de Sobrancelhas Brow Stay - BM Beauty,bruna_malheiros,""R$ 89,90"",0/5"
 "Be Peach Contorno - Cacau 40% - BM Beauty,bruna_malheiros,""R$ 89,90"",0/5"
 "Be Peach Contorno - Cacau 60% - BM Beauty,bruna_malheiros,""R$ 89,90"",0/5"
 "Be Peach Contorno - Cacau 80% - BM Beauty,bruna_malheiros,""R$ 89,90"",0/5"
 "Kit Adeus Olheiras - BM Beauty,bruna_malheiros,""R$ 99,90"",0/5"
-PÛ Solto Seal UP - Translucent - BM Beauty,bruna_malheiros,,5-Apr
+P√≥ Solto Seal UP - Translucent - BM Beauty,bruna_malheiros,,5-Apr
 Be Peach Blush e Batom Pitanga - BM Beauty,bruna_malheiros,,0/5
 Be Peach Blush e Batom Papaya - BM Beauty,bruna_malheiros,,0/5
 Be Peach Blush e Batom Pitaya - BM Beauty,bruna_malheiros,,0/5
-Iluminador em PÛ Shine Dust - Champagne - BM Beauty,bruna_malheiros,,0/5
-Iluminador em PÛ Shine Dust - Rose Gold - BM Beauty,bruna_malheiros,,0/5
+Iluminador em P√≥ Shine Dust - Champagne - BM Beauty,bruna_malheiros,,0/5
+Iluminador em P√≥ Shine Dust - Rose Gold - BM Beauty,bruna_malheiros,,0/5
 Fix Care - BM Beauty,bruna_malheiros,,5-May
 Be Peach Contorno - Cacau 100% - BM Beauty,bruna_malheiros,,0/5
 Mini Kit Skin Care BM Skin - BM Beauty,bruna_malheiros,,0/5
 ",bruna_malheiros,""R$ 22,90"","
 ",bruna_malheiros,""R$ 22,90"","
 ",bruna_malheiros,""R$ 22,90"","
-"Blush LÌquido - Hello Kitty - Bruna Tavares,bruna-tavares,""R$ 72,90"",0/5"
-Sombra LÌquida - Hello Kitty - Bruna Tavares,bruna-tavares,,0/5
-"Iluminador LÌquido - Hello Kitty - Bruna Tavares,bruna-tavares,""R$ 39,90"",0/5"
+"Blush L√≠quido - Hello Kitty - Bruna Tavares,bruna-tavares,""R$ 72,90"",0/5"
+Sombra L√≠quida - Hello Kitty - Bruna Tavares,bruna-tavares,,0/5
+"Iluminador L√≠quido - Hello Kitty - Bruna Tavares,bruna-tavares,""R$ 39,90"",0/5"
 "Lip Oil - Hello Kitty - Bruna Tavares,bruna-tavares,""R$ 54,90"",0/5"
 "Batom Bala BT Lux+ - Bruna Tavares,bruna-tavares,""R$ 49,90"",5-May"
 Gloss Labial Kingdom - Disney Wish - Bruna Tavares,bruna-tavares,,0/5
 "Paleta de Sombras Magic in Every Wish - Disney Wish - Bruna Tavares,bruna-tavares,""R$ 87,90"",0/5"
 "BT Plush Queen Amaya - Disney Wish - Bruna Tavares,bruna-tavares,""R$ 84,90"",0/5"
 BT Plush Asha - Disney Wish - Bruna Tavares,bruna-tavares,,0/5
-Sombra LÌquida Magnific - Disney Wish - Bruna Tavares,bruna-tavares,,0/5
+Sombra L√≠quida Magnific - Disney Wish - Bruna Tavares,bruna-tavares,,0/5
 Iluminador Corporal Star - Disney Wish - Bruna Tavares,bruna-tavares,,0/5
 "BT Space Gloss e Sombra Alien - Bruna Tavares,bruna-tavares,""R$ 54,90"",0/5"
 BT Space Gloss e Sombra Spaceship - Bruna Tavares,bruna-tavares,,0/5
@@ -326,22 +326,22 @@ BT Space Gloss e Sombra Interstellar - Bruna Tavares,bruna-tavares,,0/5
 BT Alien Sombra e Delineador Neon - Bruna Tavares,bruna-tavares,,0/5
 BT Alien Sombra e Delineador Green Neon - Bruna Tavares,bruna-tavares,,0/5
 BT Lipshape Beige Camel - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
-BT Lipshape Beige RosÈ - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
+BT Lipshape Beige Ros√© - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
 BT Lipshape Terracota - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
 BT Lipshape Deep Brown - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
 "Paleta de Sombras BT Transition - Bruna Tavares,bruna-tavares,""R$ 87,90"",0/5"
 BT Creamy Oil Candy Apple - Bruna Tavares,bruna-tavares,,0/5
 BT Creamy Oil Gingerbread - Bruna Tavares,bruna-tavares,,0/5
-BT Creamy Oil Tiramiss˙ - Bruna Tavares,bruna-tavares,,0/5
-"BT EyePencil Black - Lapiseira Retr·til - Bruna Tavares,bruna-tavares,""R$ 54,90"",0/5"
-BT LaceBrow Brown - M·scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
-BT LaceBrow Darkbrown - M·scara de Sobrancelha - Bruna Tavares,bruna-tavares,,5-May
-BT LaceBrow Granite - M·scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
-BT LaceBrow Grey - M·scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
-BT LaceBrow Light Brown - M·scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
-BT LaceBrow Taupe - M·scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
+BT Creamy Oil Tiramiss√∫ - Bruna Tavares,bruna-tavares,,0/5
+"BT EyePencil Black - Lapiseira Retr√°til - Bruna Tavares,bruna-tavares,""R$ 54,90"",0/5"
+BT LaceBrow Brown - M√°scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
+BT LaceBrow Darkbrown - M√°scara de Sobrancelha - Bruna Tavares,bruna-tavares,,5-May
+BT LaceBrow Granite - M√°scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
+BT LaceBrow Grey - M√°scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
+BT LaceBrow Light Brown - M√°scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
+BT LaceBrow Taupe - M√°scara de Sobrancelha - Bruna Tavares,bruna-tavares,,0/5
 Paleta de Sombras Dream Come True - Disney 100 anos - Bruna Tavares,bruna-tavares,,0/5
-M·scara de CÌlios Dream Lashes - Disney 100 anos - Bruna Tavares,bruna-tavares,,0/5
+M√°scara de C√≠lios Dream Lashes - Disney 100 anos - Bruna Tavares,bruna-tavares,,0/5
 BT Mallow Happily Ever After - Disney 100 anos - Bruna Tavares,bruna-tavares,,0/5
 Gloss Labial Celebration - Disney 100 anos - Bruna Tavares,bruna-tavares,,0/5
 Gloss Labial Emotion - Disney 100 anos - Bruna Tavares,bruna-tavares,,0/5
@@ -372,77 +372,77 @@ BT Purple Powder Blush e Sombra - The Magician - Bruna Tavares,bruna-tavares,,0/
 "BT SkinPlush Corretivo D1020 - Bruna Tavares,bruna-tavares,""R$ 56,90"",0/5"
 "BT SkinPlush Corretivo D3040 - Bruna Tavares,bruna-tavares,""R$ 56,90"",0/5"
 "BT SkinPlush Corretivo D5060 - Bruna Tavares,bruna-tavares,""R$ 56,90"",0/5"
-Paleta de Sombras All Eyes On Minnie - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Paleta Multiuso Show Your Glam Terracota - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Mirror Sequin Effect - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Batom LÌquido - Bow-Tiful - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Batom em Bala - BFF - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Paleta de Sombras All Eyes On Minnie - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Paleta Multiuso Show Your Glam Terracota - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Mirror Sequin Effect - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Batom L√≠quido - Bow-Tiful - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Batom em Bala - BFF - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
 "BT Juicyoil Guava - Bruna Tavares,bruna-tavares,""R$ 53,90"",5-May"
 "BT Juicyoil Pineapple - Bruna Tavares,bruna-tavares,""R$ 53,90"",5-May"
 "BT Juicyoil Pitaya - Bruna Tavares,bruna-tavares,""R$ 53,90"",5-May"
 "BT Mallow Fairytale - Bruna Tavares,bruna-tavares,""R$ 69,90"",5-May"
 "BT Mallow Wishes - Bruna Tavares,bruna-tavares,""R$ 69,90"",5-May"
-"PÛ Solto BT SkinPowder Deep - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"PÛ Solto BT SkinPowder Fair - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"PÛ Solto BT SkinPowder Light - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"PÛ Solto BT SkinPowder Medium - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
-"PÛ Solto BT SkinPowder Tan - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"PÛ Solto BT SkinPowder Unique Amber - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"PÛ Solto BT SkinPowder Unique Quartz - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
+"P√≥ Solto BT SkinPowder Deep - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"P√≥ Solto BT SkinPowder Fair - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"P√≥ Solto BT SkinPowder Light - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"P√≥ Solto BT SkinPowder Medium - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
+"P√≥ Solto BT SkinPowder Tan - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"P√≥ Solto BT SkinPowder Unique Amber - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"P√≥ Solto BT SkinPowder Unique Quartz - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
 Paleta de Iluminador BT Cupid - Bruna Tavares,bruna-tavares,,5-Apr
 BT Marble DuoChrome 2x1 Glam Cooper - Bruna Tavares,bruna-tavares,,0/5
 BT Marble DuoChrome 2x1 Glam Gold - Bruna Tavares,bruna-tavares,,0/5
-"Base LÌquida BT Skin - T20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"M·scara para CÌlios BT Big Lash - Bruna Tavares,bruna-tavares,""R$ 71,90"",5-Apr"
+"Base L√≠quida BT Skin - T20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"M√°scara para C√≠lios BT Big Lash - Bruna Tavares,bruna-tavares,""R$ 71,90"",5-Apr"
 "Fixador de Maquiagem BT Fix - Bruna Tavares,bruna-tavares,""R$ 69,90"",5-Apr"
 BT Plump - Siren - Bruna Tavares,bruna-tavares,,5-May
-BT Browfix - M·scara para Sobrancelhas - Bruna Tavares,bruna-tavares,,5-May
+BT Browfix - M√°scara para Sobrancelhas - Bruna Tavares,bruna-tavares,,5-May
 "BT Blush Contour - Taupe Chic - Bruna Tavares,bruna-tavares,""R$ 50,90"",5-Apr"
 "BT Blush Contour - Coffee Luv - Bruna Tavares,bruna-tavares,""R$ 48,90"",0/5"
 "BT Blush Contour - Choco Dream - Bruna Tavares,bruna-tavares,""R$ 50,90"",5-May"
 "BT Blush Contour - Brown Sugar - Bruna Tavares,bruna-tavares,""R$ 50,90"",5-May"
-"BT Powder - PÛ Compacto - Cor 60 - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"BT Powder - PÛ Compacto - Cor 50 - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
-"BT Powder - PÛ Compacto - Cor 40 - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
-"BT Powder - PÛ Compacto - Cor 30 - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-BT Powder - PÛ Compacto - Cor 20 - Bruna Tavares,bruna-tavares,,0/5
-"BT Powder - PÛ Compacto - Cor 10 - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
-"Base LÌquida BT Skin - D20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"Base LÌquida BT Skin - D50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"Base LÌquida BT Skin - D60 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"Base LÌquida BT Skin - F10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"Base LÌquida BT Skin - F20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
-"Base LÌquida BT Skin - F30 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
-"Base LÌquida BT Skin - F40 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
-"Base LÌquida BT Skin - F50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
-"Base LÌquida BT Skin - F60 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
-"Base LÌquida BT Skin - L10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Feb"
-"Base LÌquida BT Skin - L20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
-"Base LÌquida BT Skin - L40 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
-"Base LÌquida BT Skin - L50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
-"Base LÌquida BT Skin - L60 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
-"Base LÌquida BT Skin - M10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"Base LÌquida BT Skin - M20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
-"Base LÌquida BT Skin - M30 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
-"Base LÌquida BT Skin - M50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
-"Batom LÌquido Matte - BRUNA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
-"Batom LÌquido Matte - FLAVIA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-Apr"
-"Batom LÌquido Matte - VICTORIA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
-"M·scara de CÌlios BT Wonder Lash - Bruna Tavares,bruna-tavares,""R$ 64,90"",5-Apr"
-"Batom LÌquido Matte - BRENDA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-Apr"
-"Batom LÌquido Matte - ROBERTA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-Apr"
-"BT Multicover - Corretivo LÌquido Cor D 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-May"
-"BT Multicover - Corretivo LÌquido Cor L 10 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
-"BT Multicover - Corretivo LÌquido Cor L 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
-"BT Multicover - Corretivo LÌquido Cor M 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
-"BT Multicover - Corretivo LÌquido Cor T 10 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
-"BT Multicover - Corretivo LÌquido Cor T 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-May"
-"Batom LÌquido Matte - HERMIONE - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
-"Batom LÌquido Matte - AMANDA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
-"Batom LÌquido Matte - GABRIELA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
-"BT Multicover - Corretivo LÌquido Cor M30 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-May"
+"BT Powder - P√≥ Compacto - Cor 60 - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"BT Powder - P√≥ Compacto - Cor 50 - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
+"BT Powder - P√≥ Compacto - Cor 40 - Bruna Tavares,bruna-tavares,""R$ 81,50"",5-May"
+"BT Powder - P√≥ Compacto - Cor 30 - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+BT Powder - P√≥ Compacto - Cor 20 - Bruna Tavares,bruna-tavares,,0/5
+"BT Powder - P√≥ Compacto - Cor 10 - Bruna Tavares,bruna-tavares,""R$ 81,50"",0/5"
+"Base L√≠quida BT Skin - D20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Base L√≠quida BT Skin - D50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Base L√≠quida BT Skin - D60 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Base L√≠quida BT Skin - F10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Base L√≠quida BT Skin - F20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
+"Base L√≠quida BT Skin - F30 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
+"Base L√≠quida BT Skin - F40 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
+"Base L√≠quida BT Skin - F50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
+"Base L√≠quida BT Skin - F60 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
+"Base L√≠quida BT Skin - L10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Feb"
+"Base L√≠quida BT Skin - L20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
+"Base L√≠quida BT Skin - L40 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
+"Base L√≠quida BT Skin - L50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
+"Base L√≠quida BT Skin - L60 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
+"Base L√≠quida BT Skin - M10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Base L√≠quida BT Skin - M20 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-May"
+"Base L√≠quida BT Skin - M30 - Bruna Tavares,bruna-tavares,""R$ 86,90"",5-Apr"
+"Base L√≠quida BT Skin - M50 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Batom L√≠quido Matte - BRUNA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
+"Batom L√≠quido Matte - FLAVIA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-Apr"
+"Batom L√≠quido Matte - VICTORIA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
+"M√°scara de C√≠lios BT Wonder Lash - Bruna Tavares,bruna-tavares,""R$ 64,90"",5-Apr"
+"Batom L√≠quido Matte - BRENDA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-Apr"
+"Batom L√≠quido Matte - ROBERTA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-Apr"
+"BT Multicover - Corretivo L√≠quido Cor D 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-May"
+"BT Multicover - Corretivo L√≠quido Cor L 10 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
+"BT Multicover - Corretivo L√≠quido Cor L 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
+"BT Multicover - Corretivo L√≠quido Cor M 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
+"BT Multicover - Corretivo L√≠quido Cor T 10 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-Apr"
+"BT Multicover - Corretivo L√≠quido Cor T 20 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-May"
+"Batom L√≠quido Matte - HERMIONE - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
+"Batom L√≠quido Matte - AMANDA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
+"Batom L√≠quido Matte - GABRIELA - Bruna Tavares,bruna-tavares,""R$ 39,90"",5-May"
+"BT Multicover - Corretivo L√≠quido Cor M30 - Bruna Tavares,bruna-tavares,""R$ 44,90"",5-May"
 BT Plump - Angel - Bruna Tavares,bruna-tavares,,5-Apr
-"Base LÌquida BT Skin - D10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
+"Base L√≠quida BT Skin - D10 - Bruna Tavares,bruna-tavares,""R$ 86,90"",0/5"
 BT Plush - Vintage - Bruna Tavares,bruna-tavares,,5-May
 BT Ovni Batom e Sombra Galaxy - Bruna Tavares,bruna-tavares,,0/5
 BT Lipshape Rose Brown - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
@@ -452,15 +452,15 @@ BT Lipshape Marsala - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
 BT Lipshape Warm Brown - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
 BT Lipshape Red Carpet - Lapiseira Labial - Bruna Tavares,bruna-tavares,,0/5
 Esponja de Maquiagem BT Soft Blender - Bruna Tavares,bruna-tavares,,5-May
-BT EyePencil Brown - Lapiseira Retr·til - Bruna Tavares,bruna-tavares,,0/5
+BT EyePencil Brown - Lapiseira Retr√°til - Bruna Tavares,bruna-tavares,,0/5
 BT Velvet Mustard 6ml - Bruna Tavares,bruna-tavares,,5-May
 BT Velvet Pistachio 6ml - Bruna Tavares,bruna-tavares,,0/5
 BT Velvet Hermione 6ml - Bruna Tavares,bruna-tavares,,0/5
-Batom LÌquido - Minnie Dress - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,5-May
-Batom em Bala - Dream - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Batom em Bala - Doll - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Batom em Bala - Lovely - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
-Batom em Bala - Kiss - ColeÁ„o Minnie Mouse - Bruna Tavares,bruna-tavares,,5-Apr
+Batom L√≠quido - Minnie Dress - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,5-May
+Batom em Bala - Dream - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Batom em Bala - Doll - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Batom em Bala - Lovely - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,0/5
+Batom em Bala - Kiss - Cole√ß√£o Minnie Mouse - Bruna Tavares,bruna-tavares,,5-Apr
 Paleta de Iluminadores BT Holiday - Bruna Tavares,bruna-tavares,,5-May
 BT Jelly Mask Cherry Blossom - Bruna Tavares,bruna-tavares,,0/5
 BT Velvet Grape 6ml - Bruna Tavares,bruna-tavares,,0/5
@@ -486,40 +486,40 @@ BT Velvet Off White 6ml - Bruna Tavares,bruna-tavares,,5-May
 BT Velvet Tangerine 6ml - Bruna Tavares,bruna-tavares,,0/5
 BT Velvet Cherry 6ml - Bruna Tavares,bruna-tavares,,0/5
 BT Velvet Khaki 6ml - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - M60 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - T10 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - T30 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - T40 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - T50 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - T60 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - M60 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - T10 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - T30 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - T40 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - T50 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - T60 - Bruna Tavares,bruna-tavares,,0/5
 BT Plush - Ruby - Bruna Tavares,bruna-tavares,,5-May
 BT Plush - Mauve - Bruna Tavares,bruna-tavares,,5-May
 BT Plush - Bela - Bruna Tavares,bruna-tavares,,5-May
-BT Powder - PÛ Compacto - Banana - Bruna Tavares,bruna-tavares,,5-Apr
-BT Powder - PÛ Compacto - Cor 70 - Bruna Tavares,bruna-tavares,,0/5
+BT Powder - P√≥ Compacto - Banana - Bruna Tavares,bruna-tavares,,5-Apr
+BT Powder - P√≥ Compacto - Cor 70 - Bruna Tavares,bruna-tavares,,0/5
 Iluminador Compacto BT Light - Lunar - Bruna Tavares,bruna-tavares,,5-May
 Iluminador Compacto BT Light - Bronze - Bruna Tavares,bruna-tavares,,0/5
 Iluminador Compacto BT Light - Golden - Bruna Tavares,bruna-tavares,,5-Apr
 Iluminador Compacto BT Light - Champagne - Bruna Tavares,bruna-tavares,,5-May
-Base LÌquida BT Skin - D30 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - D40 - Bruna Tavares,bruna-tavares,,0/5
-Base LÌquida BT Skin - L30 - Bruna Tavares,bruna-tavares,,5-May
-Base LÌquida BT Skin - M40 - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - CAROL - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - CLAUDIA - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - LUCIANE - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - LUISA - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - MARIANA - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - MAYARA - Bruna Tavares,bruna-tavares,,5-Apr
-Batom LÌquido Matte - SAMARA - Bruna Tavares,bruna-tavares,,5-Mar
-Batom LÌquido Matte - KEL - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - LIDIA - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - THAIS - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - JANAINA - Bruna Tavares,bruna-tavares,,5-May
-BT Multicover - Corretivo LÌquido Cor D 10 - Bruna Tavares,bruna-tavares,,5-Apr
-BT Multicover - Corretivo LÌquido Cor M 10 - Bruna Tavares,bruna-tavares,,5-Apr
-Batom LÌquido Matte - BEATRIZ - Bruna Tavares,bruna-tavares,,5-May
-Batom LÌquido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
+Base L√≠quida BT Skin - D30 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - D40 - Bruna Tavares,bruna-tavares,,0/5
+Base L√≠quida BT Skin - L30 - Bruna Tavares,bruna-tavares,,5-May
+Base L√≠quida BT Skin - M40 - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - CAROL - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - CLAUDIA - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - LUCIANE - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - LUISA - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - MARIANA - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - MAYARA - Bruna Tavares,bruna-tavares,,5-Apr
+Batom L√≠quido Matte - SAMARA - Bruna Tavares,bruna-tavares,,5-Mar
+Batom L√≠quido Matte - KEL - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - LIDIA - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - THAIS - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - JANAINA - Bruna Tavares,bruna-tavares,,5-May
+BT Multicover - Corretivo L√≠quido Cor D 10 - Bruna Tavares,bruna-tavares,,5-Apr
+BT Multicover - Corretivo L√≠quido Cor M 10 - Bruna Tavares,bruna-tavares,,5-Apr
+Batom L√≠quido Matte - BEATRIZ - Bruna Tavares,bruna-tavares,,5-May
+Batom L√≠quido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
 ",bruna-tavares,""R$ 22,90"","
 ",bruna-tavares,""R$ 22,90"","
 ",bruna-tavares,""R$ 22,90"","
@@ -527,19 +527,19 @@ Batom LÌquido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
 "Enxaguante Bucal Carmed - Fini,cimed,""R$ 21,90"",0/5"
 "Protetor Solar Facial Acnezil Oil Control - Cimed,cimed,""R$ 31,90"",0/5"
 "Gel Secativo Para Acne Acnezil - Cimed,cimed,""R$ 16,90"",0/5"
-"Sabonete LÌquido Facial Acnezil AntissÈptico - Cimed,cimed,""R$ 19,90"",0/5"
-"Kit Gel Secativo, Protetor Solar E Sabonete LÌquido Acnezil - Cimed,cimed,""R$ 52,90"",0/5"
+"Sabonete L√≠quido Facial Acnezil Antiss√©ptico - Cimed,cimed,""R$ 19,90"",0/5"
+"Kit Gel Secativo, Protetor Solar E Sabonete L√≠quido Acnezil - Cimed,cimed,""R$ 52,90"",0/5"
 "Hidratante Labial Carmed - Fini,cimed,""R$ 25,90"",0/5"
 ",cimed,""R$ 22,90"","
 ",cimed,""R$ 22,90"","
 ",cimed,""R$ 22,90"","
-"Pincel Para PÛ CÛnico Grande O128 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
+"Pincel Para P√≥ C√≥nico Grande O128 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel Para Base Angled Foundantio Brush F48 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
-"Pincel Para Mascara de CÌlios F52 - Daymakeup,daymakeup,""R$ 49,00"",0/5"
+"Pincel Para Mascara de C√≠lios F52 - Daymakeup,daymakeup,""R$ 49,00"",0/5"
 "Pincel Multifuncional F98 - Daymakeup,daymakeup,""R$ 119,00"",0/5"
-"Pincel Para PÛ, Liquido e Cremosos F80 - Daymakeup,daymakeup,""R$ 119,00"",0/5"
+"Pincel Para P√≥, Liquido e Cremosos F80 - Daymakeup,daymakeup,""R$ 119,00"",0/5"
 "Pincel Iluminador Em Forma de Leque Cerdas Curtas F77 - Daymakeup,daymakeup,""R$ 54,90"",0/5"
-"Pincel Para PÛ de Cerdas Longas F97 - Daymakeup,daymakeup,""R$ 69,00"",0/5"
+"Pincel Para P√≥ de Cerdas Longas F97 - Daymakeup,daymakeup,""R$ 69,00"",0/5"
 "Pincel Iluminador F94 - DayMakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel Para Corretivo Angular F91 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel Sombra Curta Em Forma de Leque F76 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
@@ -554,16 +554,16 @@ Batom LÌquido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
 "Pincel Curva Quadrada Topo Angulado, Base, Po, Blush Contorno Multifuncional F81 - Daymakeup,daymakeup,""R$ 79,90"",0/5"
 "Pincel Para Base, Corretivo, Produtos Cremosos - Daymakeup,daymakeup,""R$ 79,90"",0/5"
 "Pincel Soft Delineador Angular O106 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Kit de PincÈis Profissionais 22 PeÁas - Daymakeup,daymakeup,""R$ 499,00"",0/5"
-"Kit de PincÈis de Precis„o PRO - Daymakeup,daymakeup,""R$ 179,90"",0/5"
-"Kit de PincÈis Profissionais Blend - Daymakeup,daymakeup,""R$ 519,00"",0/5"
-"Kit de PincÈis para Esfumar - Daymakeup,daymakeup,""R$ 299,00"",0/5"
+"Kit de Pinc√©is Profissionais 22 Pe√ßas - Daymakeup,daymakeup,""R$ 499,00"",0/5"
+"Kit de Pinc√©is de Precis√£o PRO - Daymakeup,daymakeup,""R$ 179,90"",0/5"
+"Kit de Pinc√©is Profissionais Blend - Daymakeup,daymakeup,""R$ 519,00"",0/5"
+"Kit de Pinc√©is para Esfumar - Daymakeup,daymakeup,""R$ 299,00"",0/5"
 "Pincel P/ Pele Silicone F280 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel Duo Fiber Pequeno F223 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Kabuki Soft Sensations Mid F66 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
-"Pincel Fan Soft MÈdio F50 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel Fan Soft M√©dio F50 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Mask Foundation F46 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
-"Pincel MarcaÁ„o Angular F41 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
+"Pincel Marca√ß√£o Angular F41 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel De Contorno Soft F40 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
 "Pincel Kabuki Soft Sensations F36 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
 "Pincel Chanfrado Soft Sensations F34 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
@@ -572,25 +572,25 @@ Batom LÌquido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
 "Pincel Soft Conico Medio Para Base F11 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Duo Fiber Chato Pequeno F08 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Duo Fiber Pequeno F07 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
-"Pincel Soft Grande Para PÛ F04 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
-"Bracelete Limpador de PincÈis a Seco - Daymakeup,daymakeup,""R$ 59,00"",0/5"
+"Pincel Soft Grande Para P√≥ F04 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
+"Bracelete Limpador de Pinc√©is a Seco - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Mochila de Maquiagem - Daymakeup,daymakeup,""R$ 719,00"",0/5"
-"Pincel de Precis„o Para Esfumar O142 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel de Precis√£o Para Esfumar O142 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Para Esfumar Pequeno O139 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pro Makeup Brush Book Livro para PincÈis - Daymakeup,daymakeup,""R$ 199,90"",0/5"
-"CÌlios PostiÁos #747L - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",0/5"
-"CÌlios PostiÁos #212 - Daymakeup,daymakeup,""R$ 19,90"",0/5"
-"CÌlios PostiÁos #219 - Daymakeup,daymakeup,""R$ 19,90"",0/5"
+"Pro Makeup Brush Book Livro para Pinc√©is - Daymakeup,daymakeup,""R$ 199,90"",0/5"
+"C√≠lios Posti√ßos #747L - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos #212 - Daymakeup,daymakeup,""R$ 19,90"",0/5"
+"C√≠lios Posti√ßos #219 - Daymakeup,daymakeup,""R$ 19,90"",0/5"
 "Pincel Para Corretivo F49 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Para Esfumar Blending Brush O134 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
-"Pincel ArtÌstico Pequeno A311 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel ArtÌstico MÈdio A312 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel ArtÌstico Grande A313 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
+"Pincel Art√≠stico Pequeno A311 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel Art√≠stico M√©dio A312 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel Art√≠stico Grande A313 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Duo para Sobrancelhas O150 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Multifuncional para Corretivo e Base F95 - Daymakeup,daymakeup,""R$ 79,90"",0/5"
 "Esponja de Maquiagem Coral - Daymakeup,daymakeup,""R$ 33,90"",0/5"
 "Esponja de Maquiagem Marrom Tangerina - Daymakeup,daymakeup,""R$ 33,90"",0/5"
-"Pincel para PÛ Grande Formato Leque F78 - Daymakeup,daymakeup,""R$ 79,90"",0/5"
+"Pincel para P√≥ Grande Formato Leque F78 - Daymakeup,daymakeup,""R$ 79,90"",0/5"
 "Pincel para Iluminador Formato Leque F79 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Kabuki Topo Reto Soft Sensations F60 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Duo Fiber para Contorno F58 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
@@ -599,19 +599,19 @@ Batom LÌquido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
 "Pincel para Blush e Contorno F45 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Reto para Contorno F42 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Kabuki Reto F30 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
-"Pincel CÙnico Grande F25 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
+"Pincel C√¥nico Grande F25 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
 "Pincel para Base e Corretivo F23 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Pequeno para Iluminador F21 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Iluminador Pequeno F20 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel de Topo Reto para Base F18 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
-"Pincel MÈdio para Iluminador F17 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
+"Pincel M√©dio para Iluminador F17 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel de Detalhe para Rosto F13 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel para Iluminador e Blush F10 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Duo Fiber Redondo F05 - Daymakeup,daymakeup,""R$ 69,00"",0/5"
-"Pincel Grande para PÛ F02 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
+"Pincel Grande para P√≥ F02 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
 "Leque para Maquiagem - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Esponja de Dedos Label Finger Sponge - Daymakeup,daymakeup,""R$ 23,90"",0/5"
-"Pincel para PÛ Amazing F01 - Daymakeup,daymakeup,""R$ 119,90"",0/5"
+"Pincel para P√≥ Amazing F01 - Daymakeup,daymakeup,""R$ 119,90"",0/5"
 "Pincel para Batom L01 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Duo Fiber para Iluminar F222 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel Duo Fiber F221 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
@@ -619,92 +619,92 @@ Batom LÌquido Matte - ROSE - Bruna Tavares,bruna-tavares,,5-May
 "Pincel para Iluminador F74 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel para Corretivo 3D F90 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel Kabuki Chanfrado Soft Sensations P38 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel CÙnico Pequeno Soft Sensations P36 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel C√¥nico Pequeno Soft Sensations P36 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Pequeno Kabuki Soft Sensations P34 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Kabuki Pequeno Soft Sensations P30 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Delineador O182 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel para Base e Corretivo Precision Details O176 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Delineador O160 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Pincel Precis„o Para os Olhos O158 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
+"Pincel Precis√£o Para os Olhos O158 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Macio e Denso para Sombra O155 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel AplicaÁ„o de Sombras O152 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel Precis„o Middle Hair O120 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
+"Pincel Aplica√ß√£o de Sombras O152 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel Precis√£o Middle Hair O120 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Corte Reto High Precision Soft O117 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Small Corte Reto Hight Precision O116 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Caneta Pen Brush O109 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel de Sombra Eyeshadow Brush O108 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Limpador de PincÈis a Seco Smart Cleaner - Daymakeup,daymakeup,""R$ 33,90"",0/5"
-"CÌlios PostiÁos #Wispy - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",5-May"
-"CÌlios PostiÁos #217 - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",0/5"
+"Limpador de Pinc√©is a Seco Smart Cleaner - Daymakeup,daymakeup,""R$ 33,90"",0/5"
+"C√≠lios Posti√ßos #Wispy - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",5-May"
+"C√≠lios Posti√ßos #217 - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",0/5"
 "Pincel Kabuki Redondo Pequeno P32 Soft Sensations - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Glitter O196 - Daymakeup,daymakeup,""R$ 39,90"",0/5"
-"Pincel Delineador de Precis„o Pequeno O180 - Daymakeup,daymakeup,""R$ 36,90"",5-May"
+"Pincel Delineador de Precis√£o Pequeno O180 - Daymakeup,daymakeup,""R$ 36,90"",5-May"
 "Pincel para Base e Corretivo Precision Details O177 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Base e Corretivo Precision Details O173 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel MÈdio para Base e Corretivo Precision Details O172 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel MÈdio para Base e Corretivo Precision Details O171 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel M√©dio para Base e Corretivo Precision Details O172 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel M√©dio para Base e Corretivo Precision Details O171 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Pequeno para Base e Corretivo Precision Details O161 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Curto para Sombra O157 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel CÙnico para Esfumar O148 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel C√¥nico para Esfumar O148 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Esfumar O146 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel Caneta MÈdio O145 - Daymakeup,daymakeup,""R$ 36,90"",5-May"
+"Pincel Caneta M√©dio O145 - Daymakeup,daymakeup,""R$ 36,90"",5-May"
 "Pincel para Esfumar O144 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel CÙnico Arredondado para Esfumar O140 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel C√¥nico Arredondado para Esfumar O140 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Esfumar O138 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel de Precis„o e Esfumado O136HRD - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel de Precis√£o e Esfumado O136HRD - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel para Esfumar O136 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel de Cerdas Curtas para Esfumar O133 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel de Precis„o para Detalhes O132WS - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel de Precis√£o para Detalhes O132WS - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel de Cerdas Curtas para Esfumar O132 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel de Precis„o e Detalhes O131 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
+"Pincel de Precis√£o e Detalhes O131 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Pequeno para Iluminar O124 - Daymakeup,daymakeup,""R$ 59,00"",0/5"
 "Pincel Curto para Olhos O121 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel para Delineado e Sobrancelhas O118 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel Chato Curto de Alta Precis„o O113 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel Chato Curto de Alta Precis√£o O113 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Chanfrado para Delinear O112 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Pincel Chanfrado MÈdio O107 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
+"Pincel Chanfrado M√©dio O107 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
 "Pincel Delineador O105 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Pincel para PÛs F72 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
-"Pincel Chato Grande para PÛ F70 - Daymakeup,daymakeup,""R$ 119,00"",0/5"
+"Pincel para P√≥s F72 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
+"Pincel Chato Grande para P√≥ F70 - Daymakeup,daymakeup,""R$ 119,00"",0/5"
 "Pincel Delineador Angular Precision Details O175 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Pincel para MarcaÁ„o de CÙncavo Precision Details O137 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
-"Pincel de Precis„o Natural O122 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Pincel Delineador de Precis„o O104 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
-"Pincel CÙnico Grande Soft Sensations F38 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
+"Pincel para Marca√ß√£o de C√¥ncavo Precision Details O137 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
+"Pincel de Precis√£o Natural O122 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
+"Pincel Delineador de Precis√£o O104 - Daymakeup,daymakeup,""R$ 36,90"",0/5"
+"Pincel C√¥nico Grande Soft Sensations F38 - Daymakeup,daymakeup,""R$ 99,90"",0/5"
 "Pincel Chato para Iluminador F28 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
-"Pincel para Blush e MarcaÁ„o MÈdio F26 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
+"Pincel para Blush e Marca√ß√£o M√©dio F26 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
 "Pincel para Corretivo F19 - Daymakeup,daymakeup,""R$ 49,90"",0/5"
 "Pincel Kabuki Duo Fiber Pequeno F09 - Daymakeup,daymakeup,""R$ 59,90"",0/5"
-"Pincel para PÛ Grande F03 - Daymakeup,daymakeup,""R$ 109,00"",0/5"
-"CÌlios PostiÁos #FlyAway - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",5-May"
-"CÌlios PostiÁos #10 False Eyelashes 3D - Daymakeup,daymakeup,""R$ 28,90"",0/5"
-"CÌlios PostiÁos #09 False Eyelashes 3D - Daymakeup,daymakeup,""R$ 28,90"",0/5"
-"CÌlios PostiÁos #01 - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",0/5"
-"CÌlios PostiÁos #02 - Human Hair - Daymakeup,daymakeup,""R$ 24,90"",0/5"
+"Pincel para P√≥ Grande F03 - Daymakeup,daymakeup,""R$ 109,00"",0/5"
+"C√≠lios Posti√ßos #FlyAway - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",5-May"
+"C√≠lios Posti√ßos #10 False Eyelashes 3D - Daymakeup,daymakeup,""R$ 28,90"",0/5"
+"C√≠lios Posti√ßos #09 False Eyelashes 3D - Daymakeup,daymakeup,""R$ 28,90"",0/5"
+"C√≠lios Posti√ßos #01 - Human Hair - Daymakeup,daymakeup,""R$ 17,90"",0/5"
+"C√≠lios Posti√ßos #02 - Human Hair - Daymakeup,daymakeup,""R$ 24,90"",0/5"
 Kit 12 Pinceis Precision Brush For Eye Details - Day Makeup,daymakeup,,0/5
 Pincel Kabuki Soft Sensations F62 - Daymakeup,daymakeup,,0/5
 Pincel Para Contorno Foundation Brush F44 - Daymakeup,daymakeup,,0/5
-NÈcessaire de Nylon Grande - Daymakeup,daymakeup,,0/5
-Cinto Porta PincÈis - Daymakeup,daymakeup,,0/5
-ColeÁ„o de PincÈis Alessandro Alc‚ntara 11 PeÁas - Daymakeup,daymakeup,,0/5
+N√©cessaire de Nylon Grande - Daymakeup,daymakeup,,0/5
+Cinto Porta Pinc√©is - Daymakeup,daymakeup,,0/5
+Cole√ß√£o de Pinc√©is Alessandro Alc√¢ntara 11 Pe√ßas - Daymakeup,daymakeup,,0/5
 Pincel Para Sombra Eye Shadow Brush O126 - Daymakeup,daymakeup,,0/5
 Esponja de Maquiagem Preta - Daymakeup,daymakeup,,0/5
 Pincel Leque F51 - Daymakeup,daymakeup,,0/5
-Pincel MÈdio para Iluminador e Blush F24 - Daymakeup,daymakeup,,0/5
-Pincel Grande para PÛ F16 - Daymakeup,daymakeup,,0/5
+Pincel M√©dio para Iluminador e Blush F24 - Daymakeup,daymakeup,,0/5
+Pincel Grande para P√≥ F16 - Daymakeup,daymakeup,,0/5
 Pincel para Blush e Iluminador F14 - Daymakeup,daymakeup,,5-May
-Pincel CÙnico MÈdio F12 - Daymakeup,daymakeup,,0/5
-CÌlios PostiÁos #Gleam - Human Hair - Daymakeup,daymakeup,,0/5
-CÌlios PostiÁos #747S - Human Hair - Daymakeup,daymakeup,,0/5
-CÌlios PostiÁos #05 - Flerelog - Daymakeup,daymakeup,,0/5
-CÌlios PostiÁos #04 - Flerelog - Daymakeup,daymakeup,,5-May
-Pincel para CÌlios e Sobrancelhas O190 - Daymakeup,daymakeup,,0/5
-Pincel Delineador de Precis„o MÈdio O181 - Daymakeup,daymakeup,,0/5
-Pincel de Precis„o para Sombra O159 - Daymakeup,daymakeup,,0/5
-Pincel CÙnico para Esfumar O143 - Daymakeup,daymakeup,,0/5
+Pincel C√¥nico M√©dio F12 - Daymakeup,daymakeup,,0/5
+C√≠lios Posti√ßos #Gleam - Human Hair - Daymakeup,daymakeup,,0/5
+C√≠lios Posti√ßos #747S - Human Hair - Daymakeup,daymakeup,,0/5
+C√≠lios Posti√ßos #05 - Flerelog - Daymakeup,daymakeup,,0/5
+C√≠lios Posti√ßos #04 - Flerelog - Daymakeup,daymakeup,,5-May
+Pincel para C√≠lios e Sobrancelhas O190 - Daymakeup,daymakeup,,0/5
+Pincel Delineador de Precis√£o M√©dio O181 - Daymakeup,daymakeup,,0/5
+Pincel de Precis√£o para Sombra O159 - Daymakeup,daymakeup,,0/5
+Pincel C√¥nico para Esfumar O143 - Daymakeup,daymakeup,,0/5
 Pincel com Cerdas Longas para Esfumar Mid O141 - Daymakeup,daymakeup,,0/5
-Pincel CÙnico para Esfumar O135 - Daymakeup,daymakeup,,0/5
-Pincel Caneta CÙnico de Precis„o O130 - Daymakeup,daymakeup,,0/5
+Pincel C√¥nico para Esfumar O135 - Daymakeup,daymakeup,,0/5
+Pincel Caneta C√¥nico de Precis√£o O130 - Daymakeup,daymakeup,,0/5
 Pincel para Sombra e Detalhes O123 - Daymakeup,daymakeup,,0/5
 Pincel Chato Curto O114 - Daymakeup,daymakeup,,0/5
 Pincel Chanfrado para Delinear O111 - Daymakeup,daymakeup,,0/5
@@ -714,57 +714,57 @@ Pincel Kabuki Redondo Grande Soft Sensations F32 - Daymakeup,daymakeup,,0/5
 ",daymakeup,""R$ 22,90"","
 "Jade Roller Massageador Facial - Ecotools,ecotools,""R$ 92,90"",0/5"
 "Mini Rolo Massageador Quartzo Rosa - EcoTools,ecotools,""R$ 89,90"",0/5"
-"Kit de PincÈis Wake Up + Glow - EcoTools,ecotools,""R$ 144,90"",0/5"
-"Duo de PincÈis Total Senses - EcoTools,ecotools,""R$ 99,90"",0/5"
-"Kit com 5 PincÈis Holiday Vibes - EcoTools,ecotools,""R$ 159,90"",0/5"
-Esponja Blender de AperfeiÁoamento de Contorno - Ecotools,ecotools,,0/5
+"Kit de Pinc√©is Wake Up + Glow - EcoTools,ecotools,""R$ 144,90"",0/5"
+"Duo de Pinc√©is Total Senses - EcoTools,ecotools,""R$ 99,90"",0/5"
+"Kit com 5 Pinc√©is Holiday Vibes - EcoTools,ecotools,""R$ 159,90"",0/5"
+Esponja Blender de Aperfei√ßoamento de Contorno - Ecotools,ecotools,,0/5
 ",ecotools,""R$ 22,90"","
 ",ecotools,""R$ 22,90"","
 ",ecotools,""R$ 22,90"","
-"Vibrador Sugador de ClitÛris Vai e Vem Formato Rosa - Enjoy Love,enjoy-love,""R$ 139,90"",0/5"
-"Masturbador Vagina com L·bios Pequenos e ¬nus - Enjoy Love,enjoy-love,""R$ 59,90"",0/5"
-"Masturbador Vagina com L·bios Pequenos - Enjoy Love,enjoy-love,""R$ 19,90"",0/5"
-"Masturbador Formato Corpo Feminino Com Seios Grandes Vagina e ¬nus - Enjoy Love,enjoy-love,""R$ 399,90"",0/5"
-"PÍnis realÌstico Vai e Vem com Controle via Aplicativo ‡ Dist‚ncia - Enjoy Love,enjoy-love,""R$ 219,90"",0/5"
-"Vibrador Bullet Cromado Recarreg·vel Com 10 Modos de VibraÁ„o - Enjoy Love,enjoy-love,""R$ 99,90"",0/5"
+"Vibrador Sugador de Clit√≥ris Vai e Vem Formato Rosa - Enjoy Love,enjoy-love,""R$ 139,90"",0/5"
+"Masturbador Vagina com L√°bios Pequenos e √Çnus - Enjoy Love,enjoy-love,""R$ 59,90"",0/5"
+"Masturbador Vagina com L√°bios Pequenos - Enjoy Love,enjoy-love,""R$ 19,90"",0/5"
+"Masturbador Formato Corpo Feminino Com Seios Grandes Vagina e √Çnus - Enjoy Love,enjoy-love,""R$ 399,90"",0/5"
+"P√™nis real√≠stico Vai e Vem com Controle via Aplicativo √† Dist√¢ncia - Enjoy Love,enjoy-love,""R$ 219,90"",0/5"
+"Vibrador Bullet Cromado Recarreg√°vel Com 10 Modos de Vibra√ß√£o - Enjoy Love,enjoy-love,""R$ 99,90"",0/5"
 "Vibrador e Estimulador em Formato de boca 2 em 1 - Enjoy Love,enjoy-love,""R$ 299,90"",0/5"
-"PrÛtese RealÌstica Vai e Vem com Estimulador de ClitÛris Glande Veias Escroto e Ventosa - Enjoy Love,enjoy-love,""R$ 219,90"",0/5"
-"Masturbador Bumbum Feminino Com Vagina e ¬nus - Enjoy Love,enjoy-love,""R$ 169,90"",0/5"
-"PÍnis Consolo RealÌstico 27 cm com Glande Saliente Escroto e Ventosa - Enjoy Love,enjoy-love,""R$ 99,90"",0/5"
-Anel peniano com estimulador de clitÛris Enjoy Love Couples Rose,enjoy-love,,0/5
-Sugador de ClitÛris Enjoy Love Luminous Rose,enjoy-love,,5-May
-"Vibrador Dupla PenetraÁ„o Enjoy Love Crazy - Roxo,enjoy-love,""R$ 299,90"",5-May"
+"Pr√≥tese Real√≠stica Vai e Vem com Estimulador de Clit√≥ris Glande Veias Escroto e Ventosa - Enjoy Love,enjoy-love,""R$ 219,90"",0/5"
+"Masturbador Bumbum Feminino Com Vagina e √Çnus - Enjoy Love,enjoy-love,""R$ 169,90"",0/5"
+"P√™nis Consolo Real√≠stico 27 cm com Glande Saliente Escroto e Ventosa - Enjoy Love,enjoy-love,""R$ 99,90"",0/5"
+Anel peniano com estimulador de clit√≥ris Enjoy Love Couples Rose,enjoy-love,,0/5
+Sugador de Clit√≥ris Enjoy Love Luminous Rose,enjoy-love,,5-May
+"Vibrador Dupla Penetra√ß√£o Enjoy Love Crazy - Roxo,enjoy-love,""R$ 299,90"",5-May"
 "Vibrador Ponto G Enjoy Love Charm - Pink,enjoy-love,""R$ 99,90"",0/5"
 "Vibrador 3 em 1 Ponto G Enjoy Love Harmony - Roxo,enjoy-love,""R$ 249,90"",0/5"
-"Vibrador e estimulador de clitÛris 2 em 1 Enjoy Love Kiss Me - Vermelho,enjoy-love,""R$ 299,00"",5-May"
-"Vibrador Varinha M·gica 20 velocidades Enjoy Love Intense,enjoy-love,""R$ 99,90"",0/5"
-Vibrador feminino calcinha controlado por aplicativo a dist‚ncia Enjoy Love Sensation - Rosa,enjoy-love,,0/5
-"Estimulador de ClitÛris LÌngua Enjoy Love Roxo,enjoy-love,""R$ 145,90"",0/5"
-Vibrador e Sugador de ClitÛris 3 em 1 Enjoy Love Delirium - Pink,enjoy-love,,5-May
-Vibrador e Sugador de ClitÛris 3 em 1 Enjoy Love Delirium - Preto,enjoy-love,,5-May
-"Vibrador e Sugador de ClitÛris 3 em 1 Enjoy Love Delirium - Roxo,enjoy-love,""R$ 145,90"",5-May"
-"Vibrador feminino calcinha controlado por aplicativo a dist‚ncia - Enjoy Love Sensation Roxo,enjoy-love,""R$ 239,90"",5-May"
+"Vibrador e estimulador de clit√≥ris 2 em 1 Enjoy Love Kiss Me - Vermelho,enjoy-love,""R$ 299,00"",5-May"
+"Vibrador Varinha M√°gica 20 velocidades Enjoy Love Intense,enjoy-love,""R$ 99,90"",0/5"
+Vibrador feminino calcinha controlado por aplicativo a dist√¢ncia Enjoy Love Sensation - Rosa,enjoy-love,,0/5
+"Estimulador de Clit√≥ris L√≠ngua Enjoy Love Roxo,enjoy-love,""R$ 145,90"",0/5"
+Vibrador e Sugador de Clit√≥ris 3 em 1 Enjoy Love Delirium - Pink,enjoy-love,,5-May
+Vibrador e Sugador de Clit√≥ris 3 em 1 Enjoy Love Delirium - Preto,enjoy-love,,5-May
+"Vibrador e Sugador de Clit√≥ris 3 em 1 Enjoy Love Delirium - Roxo,enjoy-love,""R$ 145,90"",5-May"
+"Vibrador feminino calcinha controlado por aplicativo a dist√¢ncia - Enjoy Love Sensation Roxo,enjoy-love,""R$ 239,90"",5-May"
 Vibrador para casal 10 velocidades Enjoy Love Daze,enjoy-love,,0/5
-"Estimulador de ClitÛris LÌngua Enjoy Love Rosa,enjoy-love,""R$ 145,90"",0/5"
-"Sugador de ClitÛris Enjoy Love Red Rose,enjoy-love,""R$ 145,90"",5-May"
-"Sugador de ClitÛris com 10 Modos de SucÁ„o Enjoy Love Fofuxo,enjoy-love,""R$ 145,90"",0/5"
-"Vibrador e Estimulador de ClitÛris 3 em 1 Enjoy Love Frenezi,enjoy-love,""R$ 349,90"",0/5"
-"Sugador de ClitÛris e Vibrador 2 em 1 Enjoy Love Symphony,enjoy-love,""R$ 299,90"",0/5"
+"Estimulador de Clit√≥ris L√≠ngua Enjoy Love Rosa,enjoy-love,""R$ 145,90"",0/5"
+"Sugador de Clit√≥ris Enjoy Love Red Rose,enjoy-love,""R$ 145,90"",5-May"
+"Sugador de Clit√≥ris com 10 Modos de Suc√ß√£o Enjoy Love Fofuxo,enjoy-love,""R$ 145,90"",0/5"
+"Vibrador e Estimulador de Clit√≥ris 3 em 1 Enjoy Love Frenezi,enjoy-love,""R$ 349,90"",0/5"
+"Sugador de Clit√≥ris e Vibrador 2 em 1 Enjoy Love Symphony,enjoy-love,""R$ 299,90"",0/5"
 "Vibrador bullet - Enjoy Love Rocket Roxo,enjoy-love,""R$ 539,90"",0/5"
-"Sugador de ClitÛris Enjoy Love Octopus,enjoy-love,""R$ 269,90"",0/5"
+"Sugador de Clit√≥ris Enjoy Love Octopus,enjoy-love,""R$ 269,90"",0/5"
 "Estimulador de Prostata Enjoy Love P Spot,enjoy-love,""R$ 209,90"",0/5"
-"Vibrador GiratÛrio e Estimulador de ClitÛris e Ponto G 3 em 1 Enjoy Love Desire,enjoy-love,""R$ 349,90"",0/5"
+"Vibrador Girat√≥rio e Estimulador de Clit√≥ris e Ponto G 3 em 1 Enjoy Love Desire,enjoy-love,""R$ 349,90"",0/5"
 "Vibrador em formato de touca de natal Enjoy Love Not Santa,enjoy-love,""R$ 145,90"",5-May"
 "Vibrador de Calcinha com controle remoto Enjoy Love Secret Pleasure,enjoy-love,""R$ 249,90"",5-May"
-"Vibrador e Sugador de ClitÛris 3 em 1 Enjoy Love Delirium - Verde,enjoy-love,""R$ 399,90"",5-May"
-"Vibrador e Sugador de ClitÛris 3 em 1 Enjoy Love Delirium - Rosa,enjoy-love,""R$ 499,90"",5-May"
+"Vibrador e Sugador de Clit√≥ris 3 em 1 Enjoy Love Delirium - Verde,enjoy-love,""R$ 399,90"",5-May"
+"Vibrador e Sugador de Clit√≥ris 3 em 1 Enjoy Love Delirium - Rosa,enjoy-love,""R$ 499,90"",5-May"
 "Vibrador bullet - Enjoy Love Rocket Coral,enjoy-love,""R$ 299,90"",0/5"
-"Vibrador e Sugador de ClitÛris Enjoy Love Embrace - Vermelho,enjoy-love,""R$ 499,90"",0/5"
+"Vibrador e Sugador de Clit√≥ris Enjoy Love Embrace - Vermelho,enjoy-love,""R$ 499,90"",0/5"
 Vibrador Massageador Clitoriano e Peniano para Casal com Bullet Enjoy Love Double Joy,enjoy-love,,0/5
 ",enjoy-love,""R$ 22,90"","
 ",enjoy-love,""R$ 22,90"","
 ",enjoy-love,""R$ 22,90"","
-TÙnico Capilar Antiqueda IPA 30ml - Urban Men - Farmaervas,farmaervas,,0/5
+T√¥nico Capilar Antiqueda IPA 30ml - Urban Men - Farmaervas,farmaervas,,0/5
 ",farmaervas,""R$ 22,90"","
 ",farmaervas,""R$ 22,90"","
 ",farmaervas,""R$ 22,90"","
@@ -778,38 +778,38 @@ TÙnico Capilar Antiqueda IPA 30ml - Urban Men - Farmaervas,farmaervas,,0/5
 "Primer Facial Iluminador Franshine - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 69,90"",0/5"
 "Kit Fran Glosslicious - Fran by Franciny Elkhe,fran_by_franciny_ehlke,""R$ 65,90"",5-May"
 "Paleta de Blushes Beach Face - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 129,90"",0/5"
-"Batom LÌquido Matte Xoxo - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 39,90"",0/5"
+"Batom L√≠quido Matte Xoxo - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 39,90"",0/5"
 "Gloss Labial Glossip Girl - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 39,90"",0/5"
 "Corretivo Stick Cover E-01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 49,90"",0/5"
 "Corretivo Stick Cover E-02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 49,90"",0/5"
-"PÛ Facial Solto Plush 01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 55,90"",0/5"
-"Base LÌquida Matte Real Filter C-01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 59,90"",0/5"
-"Base LÌquida Matte Real Filter M-01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 59,90"",0/5"
+"P√≥ Facial Solto Plush 01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 55,90"",0/5"
+"Base L√≠quida Matte Real Filter C-01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 59,90"",0/5"
+"Base L√≠quida Matte Real Filter M-01 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 59,90"",0/5"
 "Stick Tint Balm Wine - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 45,90"",0/5"
 "Scrub Stick Balm Bamboo - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 45,90"",0/5"
-"Sabonete LÌquido Facial Detox - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 45,90"",0/5"
-"SÈrum Facial C10 Vitamina C - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 79,90"",0/5"
+"Sabonete L√≠quido Facial Detox - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 45,90"",0/5"
+"S√©rum Facial C10 Vitamina C - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 79,90"",0/5"
 "Demaquilante Cleansing Oil Get Off Make Up - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 59,90"",0/5"
-"Paleta de Sombras Brasil EdiÁ„o Limitada - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 129,90"",0/5"
+"Paleta de Sombras Brasil Edi√ß√£o Limitada - Fran by Franciny Ehlke,fran_by_franciny_ehlke,""R$ 129,90"",0/5"
 LipHoney e ChocoChilli Gloss Fran By Franciny Ehlke Kit,fran_by_franciny_ehlke,,5-May
 Kit Boquinha Contornada,fran_by_franciny_ehlke,,0/5
 Caneta Delineadora PullPen - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-M·scara para CÌlios Maravicherry - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-Lapiseira Retr·til PullPencil - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+M√°scara para C√≠lios Maravicherry - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Lapiseira Retr√°til PullPencil - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Paleta de Iluminadores Gritani - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Paleta de Contorno Your Browns - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Paleta de Sombras Nine - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-Batom LÌquido Matte Clarice - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Batom L√≠quido Matte Clarice - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Gloss Labial Glossip Gold - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Gloss Labial Lipchilli Aumento e Volume - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-PÛ Facial Solto Plush 02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-Base LÌquida Matte Real Filter C-02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-Base LÌquida Matte Real Filter C-03 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-Base LÌquida Matte Real Filter C-04 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
-Base LÌquida Matte Real Filter M-02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+P√≥ Facial Solto Plush 02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Base L√≠quida Matte Real Filter C-02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Base L√≠quida Matte Real Filter C-03 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Base L√≠quida Matte Real Filter C-04 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Base L√≠quida Matte Real Filter M-02 - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Stick Tint Balm Pink - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 Fixador de Maquiagem Power Finish - Fran by Franciny Elhke,fran_by_franciny_ehlke,,0/5
-Gloss Labial ChocoChilli EdiÁ„o Limitada - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
+Gloss Labial ChocoChilli Edi√ß√£o Limitada - Fran by Franciny Ehlke,fran_by_franciny_ehlke,,0/5
 ",fran_by_franciny_ehlke,""R$ 22,90"","
 ",fran_by_franciny_ehlke,""R$ 22,90"","
 ",fran_by_franciny_ehlke,""R$ 22,90"","
@@ -817,38 +817,38 @@ Kit Gloss Labial LipHoney e Lip Bunny - Franciny Ehlke,franciny-ehlke,,0/5
 ",franciny-ehlke,""R$ 22,90"","
 ",franciny-ehlke,""R$ 22,90"","
 ",franciny-ehlke,""R$ 22,90"","
-"Batom LÌquido Rubi - Frederika Make,frederika_make,""R$ 21,90"",0/5"
-Blusher Blush LÌquido Canyon - Frederika Make,frederika_make,,0/5
-Blusher Blush LÌquido Fancy - Frederika Make,frederika_make,,0/5
+"Batom L√≠quido Rubi - Frederika Make,frederika_make,""R$ 21,90"",0/5"
+Blusher Blush L√≠quido Canyon - Frederika Make,frederika_make,,0/5
+Blusher Blush L√≠quido Fancy - Frederika Make,frederika_make,,0/5
 Corretivo Stick 2 em 01 - Cor 10 - Frederika Make,frederika_make,,0/5
 Perfect Blush Compacto Ballet - Frederika Make,frederika_make,,0/5
 Perfect Blush Compacto Pink Lemonade - Frederika Make,frederika_make,,0/5
-Batom LÌquido Lichia - Frederika Make,frederika_make,,0/5
-Batom LÌquido BrulÈe - Frederika Make,frederika_make,,0/5
-M·scara de CÌlios Vibrant Lashes - Frederika Make,frederika_make,,0/5
+Batom L√≠quido Lichia - Frederika Make,frederika_make,,0/5
+Batom L√≠quido Brul√©e - Frederika Make,frederika_make,,0/5
+M√°scara de C√≠lios Vibrant Lashes - Frederika Make,frederika_make,,0/5
 Gel Tint Baby Paprika - Frederika Make,frederika_make,,0/5
 Bronzer Acapulco Linha Solar - Frederika Make,frederika_make,,0/5
-Bronzer Canc˙n Linha Solar - Frederika Make,frederika_make,,0/5
-Iluminador LÌquido Sol - Frederika Make,frederika_make,,0/5
-Iluminador LÌquido Sunset - Frederika Make,frederika_make,,0/5
-Bronzer e Contorno LÌquido Bronzed Tawny - Frederika Make,frederika_make,,0/5
-Blusher Blush LÌquido Hot - Frederika Make,frederika_make,,0/5
-Blusher Blush LÌquido Kisses - Frederika Make,frederika_make,,0/5
-Blusher Blush LÌquido Peach - Frederika Make,frederika_make,,0/5
-Blusher Blush LÌquido Rust - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Vanilla Ice Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Dijon Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Charmy Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Carrot Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Lagoon Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Smoothie Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Splash Funny - Frederika Make,frederika_make,,0/5
-Sombra LÌquida Sugar Pop Funny - Frederika Make,frederika_make,,0/5
-Corretivo LÌquido Cor 02 - Frederika Make,frederika_make,,5-May
-Corretivo LÌquido Cor 03 - Frederika Make,frederika_make,,0/5
-Corretivo LÌquido Cor 06 - Frederika Make,frederika_make,,0/5
-Corretivo LÌquido Cor 07 - Frederika Make,frederika_make,,0/5
-L·pis para Olhos Vibes Night - Frederika Make,frederika_make,,0/5
+Bronzer Canc√∫n Linha Solar - Frederika Make,frederika_make,,0/5
+Iluminador L√≠quido Sol - Frederika Make,frederika_make,,0/5
+Iluminador L√≠quido Sunset - Frederika Make,frederika_make,,0/5
+Bronzer e Contorno L√≠quido Bronzed Tawny - Frederika Make,frederika_make,,0/5
+Blusher Blush L√≠quido Hot - Frederika Make,frederika_make,,0/5
+Blusher Blush L√≠quido Kisses - Frederika Make,frederika_make,,0/5
+Blusher Blush L√≠quido Peach - Frederika Make,frederika_make,,0/5
+Blusher Blush L√≠quido Rust - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Vanilla Ice Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Dijon Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Charmy Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Carrot Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Lagoon Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Smoothie Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Splash Funny - Frederika Make,frederika_make,,0/5
+Sombra L√≠quida Sugar Pop Funny - Frederika Make,frederika_make,,0/5
+Corretivo L√≠quido Cor 02 - Frederika Make,frederika_make,,5-May
+Corretivo L√≠quido Cor 03 - Frederika Make,frederika_make,,0/5
+Corretivo L√≠quido Cor 06 - Frederika Make,frederika_make,,0/5
+Corretivo L√≠quido Cor 07 - Frederika Make,frederika_make,,0/5
+L√°pis para Olhos Vibes Night - Frederika Make,frederika_make,,0/5
 ",frederika_make,""R$ 22,90"","
 ",frederika_make,""R$ 22,90"","
 ",frederika_make,""R$ 22,90"","
@@ -858,86 +858,86 @@ L·pis para Olhos Vibes Night - Frederika Make,frederika_make,,0/5
 ",gusttavo_lima,""R$ 22,90"","
 ",gusttavo_lima,""R$ 22,90"","
 ",gusttavo_lima,""R$ 22,90"","
-"Kit Cavalo Forte Shampoo e Condicionador 300ml - Haskell CosmÈticos,haskell,""R$ 88,90"",0/5"
-"Kit Mandioca Shampoo e Condicionador 300ml - Haskell CosmÈticos,haskell,""R$ 82,90"",0/5"
-"Kit Murumuru Shampoo e Condicionador 300ml - Haskell CosmÈticos,haskell,""R$ 82,90"",0/5"
-"Fluido Iluminador Ametista Desamareladora 120ml - Haskell CosmÈticos,haskell,""R$ 34,90"",0/5"
-"Fluido ObrigatÛrio Bananeira PÛs-QuÌmica 120ml - Hakell CosmÈticos,haskell,""R$ 34,90"",0/5"
+"Kit Cavalo Forte Shampoo e Condicionador 300ml - Haskell Cosm√©ticos,haskell,""R$ 88,90"",0/5"
+"Kit Mandioca Shampoo e Condicionador 300ml - Haskell Cosm√©ticos,haskell,""R$ 82,90"",0/5"
+"Kit Murumuru Shampoo e Condicionador 300ml - Haskell Cosm√©ticos,haskell,""R$ 82,90"",0/5"
+"Fluido Iluminador Ametista Desamareladora 120ml - Haskell Cosm√©ticos,haskell,""R$ 34,90"",0/5"
+"Fluido Obrigat√≥rio Bananeira P√≥s-Qu√≠mica 120ml - Hakell Cosm√©ticos,haskell,""R$ 34,90"",0/5"
 "Fluido Hidratante Capilar Cavalo Forte Hidra 120ml - Haskell,haskell,""R$ 39,90"",0/5"
-Kit Shampoo Condicionador 1l M·scara 500g Cavalo Forte Haskell,haskell,,0/5
+Kit Shampoo Condicionador 1l M√°scara 500g Cavalo Forte Haskell,haskell,,0/5
 "Kit Shampoo Condicionador 1l Cavalo Forte Haskell,haskell,""R$ 33,90"",0/5"
-"Serum do Poder Se Curve 60ml - Haskell CosmÈticos,haskell,""R$ 38,64"",0/5"
-Kit M·scara Lamelar e SuperM·scara Acidificante Haskell,haskell,,0/5
-"Shampoo Se Curve 500Ml - Haskell CosmÈticos,haskell,""R$ 53,68"",0/5"
-"Condicionador Se Curve 500ml - Haskell CosmÈticos,haskell,""R$ 53,68"",0/5"
-"Mascara 3 Manteigas Se Curve 500g - Haskell CosmÈticos,haskell,""R$ 60,90"",0/5"
-"Mascara Poder Dos ”leos Se Curve 500g - Haskell CosmÈticos,haskell,""R$ 60,90"",0/5"
-"Mascara HidronutriÁ„o Se Curve 500g - Haskell CosmÈticos,haskell,""R$ 60,90"",0/5"
-"Goma Texturizadora Se Curve 500g - Haskell CosmÈticos,haskell,""R$ 66,30"",0/5"
-"Modelador De Cachos Se Curve 500ml - Haskell CosmÈticos,haskell,""R$ 66,30"",0/5"
-"Creme Finalizador de Crespos Se Curve 500ml Haskell CosmÈticos,haskell,""R$ 66,30"",0/5"
-"Curva e Cola Se Curve 500g - Haskell CosmÈticos,haskell,""R$ 66,30"",0/5"
-"Condicionador Tutano Vegetal 300ml - Haskell CosmÈticos,haskell,""R$ 41,90"",0/5"
-"Shampoo Tutano Vegetal 300ml - Haskell CosmÈticos,haskell,""R$ 41,90"",0/5"
-"Condicionador Infus„o de ”leos 300ml - Haskell CosmÈticos,haskell,""R$ 43,90"",0/5"
-"Shampoo Infus„o de ”leos 300ml - Haskell CosmÈticos,haskell,""R$ 43,90"",0/5"
-"Tinta ColoraÁ„o Para Cabelo - Linha Excllusiv - Haskell CosmÈticos,haskell,""R$ 26,70"",0/5"
-Kit Shampoo SuperM·scara FluÌdo Acidificante Haskell,haskell,,0/5
-Kit Shampoo M·scara LÌquida e ”leo Supremo Lamelar Haskell,haskell,,0/5
-"Shampoo Bendito Loiro 300ml - Haskell CosmÈticos,haskell,""R$ 43,41"",0/5"
-"Condicionador Bendito Loiro 300ml - Haskell CosmÈticos,haskell,""R$ 43,41"",0/5"
-"M·scara de Tratamento Bendito Loiro 300g - Haskell CosmÈticos,haskell,""R$ 48,90"",0/5"
-"FluÌdo Bendito Loiro 120ml - Haskell CosmÈticos,haskell,""R$ 34,43"",0/5"
-"ProteÌna Capilar Antidanos Bendito Loiro 150g - Haskell CosmÈticos,haskell,""R$ 39,18"",0/5"
-"Shampoo Encorpa Cabelo 300ml - Haskell CosmÈticos,haskell,""R$ 43,41"",0/5"
-"Condicionador Encorpa Cabelo 300ml - Haskell CosmÈticos,haskell,""R$ 43,41"",0/5"
-"Mascara Encorpa Cabelo 300gr - Haskell CosmÈticos,haskell,""R$ 48,90"",0/5"
-"Fluido Finalizador Encorpa Cabelo 120ml - Haskell CosmÈticos,haskell,""R$ 34,43"",0/5"
-"Shampoo PÛs Progressiva 300ml - Haskell CosmÈticos,haskell,""R$ 43,41"",0/5"
-"Condicionador Pos Progressiva 300ml - Haskell CosmÈticos,haskell,""R$ 43,41"",0/5"
-"M·scara de Tratamento PÛs Progressiva 300gr - Haskell CosmÈticos,haskell,""R$ 48,90"",0/5"
-"FluÌdo Alinhador PÛs Progressiva 120ml - Haskell CosmÈticos,haskell,""R$ 34,43"",0/5"
-"Condicionador Jaborandi 300ml Antiqueda - Haskell CosmÈticos,haskell,""R$ 41,90"",0/5"
-"Shampoo Jaborandi Antiqueda 300ml- Haskell CosmÈticos,haskell,""R$ 41,90"",0/5"
-"PrÈ Shampoo Revitalizador Nectavita Jaborandi 35ml - Haskell CosmÈticos,haskell,""R$ 18,55"",0/5"
-"TÙnico Fortalecedor Jaborandi 120ml - Haskell CosmÈticos,haskell,""R$ 34,43"",0/5"
-"Condicionador Ametista Desamareladora 300ml - Haskel CosmÈticos,haskell,""R$ 43,90"",0/5"
-"Condicionador Cavalo Forte Hidra 300ml - Haskell CosmÈticos,haskell,""R$ 44,90"",0/5"
-"Shampoo Ametista Desamareladora 300ml - Haskel CosmÈticos,haskell,""R$ 43,90"",0/5"
-"Shampoo Cavalo Forte Hidra 300ml - Haskell CosmÈticos,haskell,""R$ 44,90"",0/5"
-"Condicionador Mandioca 1L - Haskell CosmÈticos,haskell,""R$ 83,90"",0/5"
-"Condicionador Murumuru 1L - Haskell CosmÈticos,haskell,""R$ 83,90"",0/5"
-"Condicionador PÛs Progressiva 500ml - Haskell CosmÈticos,haskell,""R$ 56,90"",0/5"
-"Shampoo Mandioca 1L - Haskell CosmÈticos,haskell,""R$ 83,90"",0/5"
-"Shampoo Murumuru 1L - Haskell CosmÈticos,haskell,""R$ 83,90"",0/5"
-"Shampoo PÛs Progressiva 500ml - Haskell CosmÈticos,haskell,""R$ 56,90"",0/5"
-"M·scara Manteiga Nutritiva Murumuru - Haskell CosmÈticos,haskell,""R$ 47,90"",0/5"
-"M·scara de Tratamento Mandioca - Haskell CosmÈticos,haskell,""R$ 47,90"",0/5"
-"FluÌdo Reconstrutor Acidificante Alinhamento - Haskell CosmÈticos,haskell,""R$ 42,90"",0/5"
-"Shampoo Acidificante Limpeza Equilibrada - Haskell CosmÈticos,haskell,""R$ 44,90"",0/5"
-"”leo Supremo Lamelar Brilho Gloss e NutriÁ„o - Haskell CosmÈticos,haskell,""R$ 299,90"",0/5"
-Shampoo Lamelar 300ml - Haskell CosmÈticos,haskell,,0/5
-"Tonalizante de Cabelo - Linha Excllusiv Tom - Haskell CosmÈticos,haskell,""R$ 29,90"",0/5"
-"M·scara de Tratamento Cavalo Forte - Haskell CosmÈticos,haskell,""R$ 50,90"",0/5"
-"Superm·scara Acidificante Redutor de pH 240g - Haskell CosmÈticos,haskell,""R$ 50,90"",0/5"
-"Leave in Cavalo Forte 150g - Haskell CosmÈticos,haskell,""R$ 42,29"",0/5"
-"Selante de Pontas Cavalo Forte 35ml - Haskell CosmÈticos,haskell,""R$ 42,90"",0/5"
-"Complexo Fortalecedor Cavalo Forte 35ml - Haskell CosmÈticos,haskell,""R$ 27,90"",0/5"
-"TÙnico Ativador Cavalo Forte 120ml - Haskell CosmÈticos,haskell,""R$ 39,90"",0/5"
-"Shampoo Cavalo Forte - Haskell CosmÈticos,haskell,""R$ 44,19"",0/5"
-"Condicionador Cavalo Forte - Haskell CosmÈticos,haskell,""R$ 44,19"",0/5"
-"M·scara LÌquida Lamelar 200ml - Haskell CosmÈticos,haskell,""R$ 50,90"",0/5"
+"Serum do Poder Se Curve 60ml - Haskell Cosm√©ticos,haskell,""R$ 38,64"",0/5"
+Kit M√°scara Lamelar e SuperM√°scara Acidificante Haskell,haskell,,0/5
+"Shampoo Se Curve 500Ml - Haskell Cosm√©ticos,haskell,""R$ 53,68"",0/5"
+"Condicionador Se Curve 500ml - Haskell Cosm√©ticos,haskell,""R$ 53,68"",0/5"
+"Mascara 3 Manteigas Se Curve 500g - Haskell Cosm√©ticos,haskell,""R$ 60,90"",0/5"
+"Mascara Poder Dos √ìleos Se Curve 500g - Haskell Cosm√©ticos,haskell,""R$ 60,90"",0/5"
+"Mascara Hidronutri√ß√£o Se Curve 500g - Haskell Cosm√©ticos,haskell,""R$ 60,90"",0/5"
+"Goma Texturizadora Se Curve 500g - Haskell Cosm√©ticos,haskell,""R$ 66,30"",0/5"
+"Modelador De Cachos Se Curve 500ml - Haskell Cosm√©ticos,haskell,""R$ 66,30"",0/5"
+"Creme Finalizador de Crespos Se Curve 500ml Haskell Cosm√©ticos,haskell,""R$ 66,30"",0/5"
+"Curva e Cola Se Curve 500g - Haskell Cosm√©ticos,haskell,""R$ 66,30"",0/5"
+"Condicionador Tutano Vegetal 300ml - Haskell Cosm√©ticos,haskell,""R$ 41,90"",0/5"
+"Shampoo Tutano Vegetal 300ml - Haskell Cosm√©ticos,haskell,""R$ 41,90"",0/5"
+"Condicionador Infus√£o de √ìleos 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,90"",0/5"
+"Shampoo Infus√£o de √ìleos 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,90"",0/5"
+"Tinta Colora√ß√£o Para Cabelo - Linha Excllusiv - Haskell Cosm√©ticos,haskell,""R$ 26,70"",0/5"
+Kit Shampoo SuperM√°scara Flu√≠do Acidificante Haskell,haskell,,0/5
+Kit Shampoo M√°scara L√≠quida e √ìleo Supremo Lamelar Haskell,haskell,,0/5
+"Shampoo Bendito Loiro 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,41"",0/5"
+"Condicionador Bendito Loiro 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,41"",0/5"
+"M√°scara de Tratamento Bendito Loiro 300g - Haskell Cosm√©ticos,haskell,""R$ 48,90"",0/5"
+"Flu√≠do Bendito Loiro 120ml - Haskell Cosm√©ticos,haskell,""R$ 34,43"",0/5"
+"Prote√≠na Capilar Antidanos Bendito Loiro 150g - Haskell Cosm√©ticos,haskell,""R$ 39,18"",0/5"
+"Shampoo Encorpa Cabelo 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,41"",0/5"
+"Condicionador Encorpa Cabelo 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,41"",0/5"
+"Mascara Encorpa Cabelo 300gr - Haskell Cosm√©ticos,haskell,""R$ 48,90"",0/5"
+"Fluido Finalizador Encorpa Cabelo 120ml - Haskell Cosm√©ticos,haskell,""R$ 34,43"",0/5"
+"Shampoo P√≥s Progressiva 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,41"",0/5"
+"Condicionador Pos Progressiva 300ml - Haskell Cosm√©ticos,haskell,""R$ 43,41"",0/5"
+"M√°scara de Tratamento P√≥s Progressiva 300gr - Haskell Cosm√©ticos,haskell,""R$ 48,90"",0/5"
+"Flu√≠do Alinhador P√≥s Progressiva 120ml - Haskell Cosm√©ticos,haskell,""R$ 34,43"",0/5"
+"Condicionador Jaborandi 300ml Antiqueda - Haskell Cosm√©ticos,haskell,""R$ 41,90"",0/5"
+"Shampoo Jaborandi Antiqueda 300ml- Haskell Cosm√©ticos,haskell,""R$ 41,90"",0/5"
+"Pr√© Shampoo Revitalizador Nectavita Jaborandi 35ml - Haskell Cosm√©ticos,haskell,""R$ 18,55"",0/5"
+"T√¥nico Fortalecedor Jaborandi 120ml - Haskell Cosm√©ticos,haskell,""R$ 34,43"",0/5"
+"Condicionador Ametista Desamareladora 300ml - Haskel Cosm√©ticos,haskell,""R$ 43,90"",0/5"
+"Condicionador Cavalo Forte Hidra 300ml - Haskell Cosm√©ticos,haskell,""R$ 44,90"",0/5"
+"Shampoo Ametista Desamareladora 300ml - Haskel Cosm√©ticos,haskell,""R$ 43,90"",0/5"
+"Shampoo Cavalo Forte Hidra 300ml - Haskell Cosm√©ticos,haskell,""R$ 44,90"",0/5"
+"Condicionador Mandioca 1L - Haskell Cosm√©ticos,haskell,""R$ 83,90"",0/5"
+"Condicionador Murumuru 1L - Haskell Cosm√©ticos,haskell,""R$ 83,90"",0/5"
+"Condicionador P√≥s Progressiva 500ml - Haskell Cosm√©ticos,haskell,""R$ 56,90"",0/5"
+"Shampoo Mandioca 1L - Haskell Cosm√©ticos,haskell,""R$ 83,90"",0/5"
+"Shampoo Murumuru 1L - Haskell Cosm√©ticos,haskell,""R$ 83,90"",0/5"
+"Shampoo P√≥s Progressiva 500ml - Haskell Cosm√©ticos,haskell,""R$ 56,90"",0/5"
+"M√°scara Manteiga Nutritiva Murumuru - Haskell Cosm√©ticos,haskell,""R$ 47,90"",0/5"
+"M√°scara de Tratamento Mandioca - Haskell Cosm√©ticos,haskell,""R$ 47,90"",0/5"
+"Flu√≠do Reconstrutor Acidificante Alinhamento - Haskell Cosm√©ticos,haskell,""R$ 42,90"",0/5"
+"Shampoo Acidificante Limpeza Equilibrada - Haskell Cosm√©ticos,haskell,""R$ 44,90"",0/5"
+"√ìleo Supremo Lamelar Brilho Gloss e Nutri√ß√£o - Haskell Cosm√©ticos,haskell,""R$ 299,90"",0/5"
+Shampoo Lamelar 300ml - Haskell Cosm√©ticos,haskell,,0/5
+"Tonalizante de Cabelo - Linha Excllusiv Tom - Haskell Cosm√©ticos,haskell,""R$ 29,90"",0/5"
+"M√°scara de Tratamento Cavalo Forte - Haskell Cosm√©ticos,haskell,""R$ 50,90"",0/5"
+"Superm√°scara Acidificante Redutor de pH 240g - Haskell Cosm√©ticos,haskell,""R$ 50,90"",0/5"
+"Leave in Cavalo Forte 150g - Haskell Cosm√©ticos,haskell,""R$ 42,29"",0/5"
+"Selante de Pontas Cavalo Forte 35ml - Haskell Cosm√©ticos,haskell,""R$ 42,90"",0/5"
+"Complexo Fortalecedor Cavalo Forte 35ml - Haskell Cosm√©ticos,haskell,""R$ 27,90"",0/5"
+"T√¥nico Ativador Cavalo Forte 120ml - Haskell Cosm√©ticos,haskell,""R$ 39,90"",0/5"
+"Shampoo Cavalo Forte - Haskell Cosm√©ticos,haskell,""R$ 44,19"",0/5"
+"Condicionador Cavalo Forte - Haskell Cosm√©ticos,haskell,""R$ 44,19"",0/5"
+"M√°scara L√≠quida Lamelar 200ml - Haskell Cosm√©ticos,haskell,""R$ 50,90"",0/5"
 ",haskell,""R$ 22,90"","
 ",haskell,""R$ 22,90"","
 ",haskell,""R$ 22,90"","
-"Protetor Solar Alta ProteÁ„o FPS50 Island Sport - Hawaiian Tropic,hawaiian_tropic,""R$ 95,90"",0/5"
+"Protetor Solar Alta Prote√ß√£o FPS50 Island Sport - Hawaiian Tropic,hawaiian_tropic,""R$ 95,90"",0/5"
 ",hawaiian_tropic,""R$ 22,90"","
 ",hawaiian_tropic,""R$ 22,90"","
 ",hawaiian_tropic,""R$ 22,90"","
 "Kit Skincare da Hello Kitty,hello_kitty,""R$ 215,60"",0/5"
 "Espelho Duplo - Com LED - Hello Kitty - Klass Vough,hello_kitty,""R$ 499,90"",0/5"
-"Kit de PinÁas Estampadas C/4 Hello Kitty - Klass Vough,hello_kitty,""R$ 59,90"",0/5"
-"Kit PincÈis + Necessaire Hello Kitty - Klass Vough,hello_kitty,""R$ 99,90"",0/5"
+"Kit de Pin√ßas Estampadas C/4 Hello Kitty - Klass Vough,hello_kitty,""R$ 59,90"",0/5"
+"Kit Pinc√©is + Necessaire Hello Kitty - Klass Vough,hello_kitty,""R$ 99,90"",0/5"
 "Escova de Limpeza Facial Cleanser Hello Kitty - Klass Vough,hello_kitty,""R$ 52,90"",0/5"
 "Esponja de Maquiagem Pink Sponge Hello Kitty - Klass Vough,hello_kitty,""R$ 22,50"",0/5"
 "Kit de Esponjas Mini Gota C/5 Hello Kitty - Klass Vough,hello_kitty,""R$ 51,90"",0/5"
@@ -949,51 +949,51 @@ Shampoo Lamelar 300ml - Haskell CosmÈticos,haskell,,0/5
 "Kit de Necessaires Hello Kitty - Klass Vough,hello_kitty,""R$ 59,90"",0/5"
 "Necessaire Estampada com Stickers Hello Kitty - Klass Vough,hello_kitty,""R$ 39,90"",0/5"
 "Necessaire Estampada Funcional Hello Kitty - Klass Vough,hello_kitty,""R$ 65,90"",0/5"
-"Necessaire CilÌndrica Pequena Hello Kitty - Klass Vough,hello_kitty,""R$ 53,90"",0/5"
-"Necessaire CilÌndrica Grande Hello Kitty - Klass Vough,hello_kitty,""R$ 65,90"",0/5"
+"Necessaire Cil√≠ndrica Pequena Hello Kitty - Klass Vough,hello_kitty,""R$ 53,90"",0/5"
+"Necessaire Cil√≠ndrica Grande Hello Kitty - Klass Vough,hello_kitty,""R$ 65,90"",0/5"
 "Necessaire Retangular Transparente Hello Kitty - Klass Vough,hello_kitty,""R$ 85,90"",0/5"
 Faixa de Cabelo Hair Band Hello Kitty - Klass Vough,hello_kitty,,0/5
 Faixa de Cabelo Hair Band Hello Kitty - Klass Vough,hello_kitty,,0/5
 ",hello_kitty,""R$ 22,90"","
 ",hello_kitty,""R$ 22,90"","
 ",hello_kitty,""R$ 22,90"","
-"NutriÁ„o Capilar - SÈrum Capilar SOS - Hidratei,hidratei,""R$ 159,90"",0/5"
+"Nutri√ß√£o Capilar - S√©rum Capilar SOS - Hidratei,hidratei,""R$ 159,90"",0/5"
 ",hidratei,""R$ 22,90"","
 ",hidratei,""R$ 22,90"","
 ",hidratei,""R$ 22,90"","
-"CÌlios PostiÁos Kiss NY I-Envy Individual - com Mini NÛ Combo,ienvy_by_kiss_ny,""R$ 26,90"",0/5"
-"CÌlios PostiÁos - 3D Collection - 128 - I-ENVY,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Date com o Crush - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Segura o BO - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Trending - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Qual È a Boa - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Icone - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Shippo, Eu e Tequila - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Look do Dia - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - TBT - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Lacrou - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - No Filter - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos Day by Day - Divou - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-"CÌlios PostiÁos i-ENVY Kiss NY Nude - 03,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
-Cola para CÌlios PostiÁos Kiss NY I-Envy Super FixaÁ„o 48 H - Incolor,ienvy_by_kiss_ny,,5-May
-CÌlios PostiÁos - 3D Collection - 145 - I-ENVY,ienvy_by_kiss_ny,,0/5
-CÌlios PostiÁos - 3D Collection - 122 - I-ENVY,ienvy_by_kiss_ny,,0/5
-CÌlios PostiÁos Kiss NY I-Envy Individual - sem nÛ curto,ienvy_by_kiss_ny,,0/5
+"C√≠lios Posti√ßos Kiss NY I-Envy Individual - com Mini N√≥ Combo,ienvy_by_kiss_ny,""R$ 26,90"",0/5"
+"C√≠lios Posti√ßos - 3D Collection - 128 - I-ENVY,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Date com o Crush - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Segura o BO - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Trending - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Qual √© a Boa - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Icone - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Shippo, Eu e Tequila - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Look do Dia - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - TBT - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Lacrou - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - No Filter - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos Day by Day - Divou - I-Envy,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+"C√≠lios Posti√ßos i-ENVY Kiss NY Nude - 03,ienvy_by_kiss_ny,""R$ 24,90"",0/5"
+Cola para C√≠lios Posti√ßos Kiss NY I-Envy Super Fixa√ß√£o 48 H - Incolor,ienvy_by_kiss_ny,,5-May
+C√≠lios Posti√ßos - 3D Collection - 145 - I-ENVY,ienvy_by_kiss_ny,,0/5
+C√≠lios Posti√ßos - 3D Collection - 122 - I-ENVY,ienvy_by_kiss_ny,,0/5
+C√≠lios Posti√ßos Kiss NY I-Envy Individual - sem n√≥ curto,ienvy_by_kiss_ny,,0/5
 ",ienvy_by_kiss_ny,""R$ 22,90"","
 ",ienvy_by_kiss_ny,""R$ 22,90"","
 ",ienvy_by_kiss_ny,""R$ 22,90"","
-"Unhas PostiÁas Decoradas Natalinas MÈdia Angels - Kiss New York,impress,""R$ 36,90"",0/5"
-"Unhas PostiÁas Decoradas Natalinas Longa North Pole - Kiss New York,impress,""R$ 36,90"",0/5"
-"Unhas PostiÁas Decoradas Natalinas MÈdia Holly Jolly - Kiss New York,impress,""R$ 36,90"",0/5"
-"Unhas PostiÁas Decoradas Natalinas MÈdia Don't Cry Snowman - Kiss New York,impress,""R$ 36,90"",0/5"
+"Unhas Posti√ßas Decoradas Natalinas M√©dia Angels - Kiss New York,impress,""R$ 36,90"",0/5"
+"Unhas Posti√ßas Decoradas Natalinas Longa North Pole - Kiss New York,impress,""R$ 36,90"",0/5"
+"Unhas Posti√ßas Decoradas Natalinas M√©dia Holly Jolly - Kiss New York,impress,""R$ 36,90"",0/5"
+"Unhas Posti√ßas Decoradas Natalinas M√©dia Don't Cry Snowman - Kiss New York,impress,""R$ 36,90"",0/5"
 "Unhas Autocolantes Kids Impress Mini EGGcelent Day - Kiss New York,impress,""R$ 36,90"",0/5"
 "Unhas Autocolantes Kids Impress Mini Hokey Pokey - Kiss New York,impress,""R$ 36,90"",0/5"
-Unhas PostiÁas Decoradas Natalinas Autoadesivas Feeling Pine - Kiss New York,impress,,0/5
-Unhas PostiÁas Decoradas Natalinas Autoadesivas Make It Ren - Kiss New York,impress,,0/5
-Unhas PostiÁas Decoradas Natalinas Autoadesivas Snowed In - Kiss New York,impress,,0/5
-Unhas PostiÁas Decoradas Natalinas Autoadesivas Celebration - Kiss New York,impress,,0/5
-Unhas PostiÁas Autocolantes MÈdia - Message Me Kiss New York Antiga,impress,,0/5
-Unhas PostiÁas Autocolantes Amendoada MÈdia Kiss New York - Emerald,impress,,0/5
-Unhas PostiÁas Autocolantes Amendoada MÈdia Kiss New York - Citrine,impress,,0/5
-Unhas PostiÁas Autocolantes Amendoada MÈdia Kiss New York - Quartz,impress,,0/5
+Unhas Posti√ßas Decoradas Natalinas Autoadesivas Feeling Pine - Kiss New York,impress,,0/5
+Unhas Posti√ßas Decoradas Natalinas Autoadesivas Make It Ren - Kiss New York,impress,,0/5
+Unhas Posti√ßas Decoradas Natalinas Autoadesivas Snowed In - Kiss New York,impress,,0/5
+Unhas Posti√ßas Decoradas Natalinas Autoadesivas Celebration - Kiss New York,impress,,0/5
+Unhas Posti√ßas Autocolantes M√©dia - Message Me Kiss New York Antiga,impress,,0/5
+Unhas Posti√ßas Autocolantes Amendoada M√©dia Kiss New York - Emerald,impress,,0/5
+Unhas Posti√ßas Autocolantes Amendoada M√©dia Kiss New York - Citrine,impress,,0/5
+Unhas Posti√ßas Autocolantes Amendoada M√©dia Kiss New York - Quartz,impress,,0/5
 Unhas Autocolantes Kids Impress Mini Easter Bunny - Kiss New York,impress,,0/5
